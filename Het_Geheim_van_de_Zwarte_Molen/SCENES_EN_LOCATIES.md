@@ -300,7 +300,7 @@ Bij de rand van het plein ligt een gevlochten blauwe armband.
 
 **Investigation DC 10**
 
-Op de onderkant zit verse modder.
+Aan de onderkant kleeft nog verse, donkere modder. Op het feestplein zelf is de grond droog en aangestampt. Achter De Rustende Eik loopt echter een modderig pad richting de bosrand.
 
 Hendrik herkent hem meteen als die van Mira.
 
@@ -325,13 +325,40 @@ De andere zijn koboldsporen.
 
 ### Aanwijzing 3 — De metalen scherf
 
-Bij een omgevallen hek ligt een dun stukje zwart metaal.
+Bij een omgevallen hek ligt een dun, gebogen stuk zwart metaal.
 
-Een Arcana-, History- of Smith's Tools-check van **DC 12** onthult:
+Eén van de randen is vers afgescheurd en glanst nog tussen het oude roest. Over het oppervlak lopen fijne, bijna onzichtbare lijnen. Wanneer het stuk in het licht wordt gedraaid, lijken enkele daarvan heel even blauwachtig op te lichten.
 
-- het metaal is oud;
-- het is niet natuurlijk gebroken;
-- er staan resten van runen op.
+**Arcana, History of Smith's Tools DC 12**
+
+Bij succes ontdekken de spelers:
+
+- dit is geen gewoon stuk gereedschap of molenbeslag;
+- het metaal is veel ouder dan de huidige molen;
+- het lijkt onderdeel te zijn geweest van een groter mechanisme;
+- de breuk is recent;
+- in het oppervlak zijn resten van drie symbolen te herkennen:
+  - een **wiel**;
+  - een **schild**;
+  - een **open oog**.
+
+Deze symbolen komen later opnieuw terug bij de drie onderhoudssystemen van de Hartsteen:
+
+- **Beweging**
+- **Bescherming**
+- **Opdracht**
+
+De spelers hoeven op dit moment nog niet te weten wat de symbolen betekenen. Het doel van de scherf is vooral om vroeg te tonen dat er iets ouds en mechanisch-magisch met de molen aan de hand is.
+
+Bij een mislukte check krijgen ze nog steeds de noodzakelijke informatie:
+
+> Jullie weten niet precies waarvoor dit stuk diende, maar één ding is duidelijk: de breuk is vers. Dit lag hier gisteren waarschijnlijk nog niet.
+
+Als de spelers de scherf later aan **Oude Martha** tonen, herkent zij de symbolen.
+
+> “Een wiel, een schild en een oog... ja. Die tekens stonden vroeger op de onderhoudsdeuren van de molen.”
+
+Ze kan hen vertellen dat de symbolen verbonden waren aan de oude systemen onder de molen, zonder meteen volledig uit te leggen wat elk systeem doet.
 
 ---
 
@@ -349,17 +376,49 @@ Met geruststelling of **Persuasion DC 10** vertelt hij:
 
 ### Aanwijzing 5 — Oude Martha
 
-Martha kent de geschiedenis van de molen.
+Oude Martha kent de geschiedenis van Eikenwoude beter dan de meeste inwoners.
 
-Ze vertelt:
+Ze is niet snel onder de indruk van verhalen over vloeken, monsters of bezeten molens. Volgens haar zijn dat meestal woorden die mensen gebruiken wanneer ze niet meer begrijpen hoe iets werkt.
+
+Wanneer de spelers haar naar de oude molen vragen, vertelt ze:
 
 > “Die molen maalde ooit meer dan graan.”
 >
 > “Onder het hout ligt steen.”
 >
-> “Onder de steen ligt iets dat nooit had mogen ontwaken.”
+> “En onder die steen ligt iets wat de meeste mensen hier allang vergeten zijn.”
 
-Ze bezit een oude koperen sleutel die past op een onderhoudsdeur in de molen.
+Martha weet dat er onder de molen oude onderhoudsruimtes en mechanismen liggen. Ze kent niet alle details meer, maar ze weet dat de molen ooit deel uitmaakte van een veel groter systeem.
+
+Ze bezit bovendien een oude **koperen onderhoudssleutel**.
+
+> “Mijn grootvader noemde dit een onderhoudssleutel. Ik heb nooit gedacht dat iemand hem nog nodig zou hebben.”
+
+De sleutel past op een kleine onderhoudsdeur aan de achterkant van de molen.
+
+---
+
+#### Als de spelers de metalen scherf tonen
+
+Wanneer Martha de zwarte metalen scherf ziet, verandert haar houding.
+
+Ze neemt het stuk voorzichtig vast, draait het naar het licht en bestudeert de drie symbolen.
+
+> “Een wiel... een schild... en een oog.”
+>
+> “Dat heb ik lang niet meer gezien.”
+
+Ze herkent de symbolen als oude onderhoudstekens van de installatie onder de molen.
+
+Ze wijst ze één voor één aan.
+
+> “Het wiel stond voor wat moest **bewegen**.”
+>
+> “Het schild voor wat moest **beschermen**.”
+>
+> “En het oog... dat was de opdracht. Wat het systeem moest herkennen. Waarnaar het moest luisteren.”
+
+Martha weet niet precies hoe de mechanismen tegenwoordig werken, maar wa
 
 ---
 
