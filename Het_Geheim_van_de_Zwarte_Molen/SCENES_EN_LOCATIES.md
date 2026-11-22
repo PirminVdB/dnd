@@ -24,6 +24,10 @@ Personages maken komt hier nog bij. Met veel overleg of zes spelers kan het avon
 
 ### Aankomst
 
+**Voor de DM:** speel de aankomst in drie korte delen. Pauzeer op de aangegeven momenten en volg reacties van spelers; de beschrijving is geen verplichte monoloog. Krusk is eigenaar en kok van De Rustende Eik. Hendrik Vale werkt er achter de bar en is Mira's vader.
+
+#### 1. Welkom bij Krusk
+
 Lees of parafraseer:
 
 > De weg naar Eikenwoude loopt langzaam naar beneden tussen uitgestrekte goudkleurige velden. De laatste zon van de dag hangt laag boven de heuvels en kleurt het graan koperrood. Hier en daar zijn boeren nog bezig hun laatste karren binnen te halen, maar hoe dichter jullie bij het dorp komen, hoe duidelijker het wordt dat vandaag niemand veel zin heeft om nog te werken.
@@ -65,7 +69,13 @@ Lees of parafraseer:
 > Hij werpt een blik over het plein.
 >
 > “Welkom in Eikenwoude.”
->
+
+**Speelmoment:** laat spelers Krusk begroeten, vragen stellen of vertellen waarvoor ze komen. Hij nodigt hen uit aan tafel; als ze liever het plein verkennen, volg je hen en laat je de introducties daar plaatsvinden.
+
+#### 2. Kennismaken aan tafel
+
+Als ze meegaan:
+
 > Krusk gebaart dat jullie hem moeten volgen en baant zich zonder enige moeite een weg tussen de feestvierders. Mensen groeten hem terwijl hij passeert. Een kind probeert hem iets toe te roepen, iemand duwt hem een stuk brood in de handen en een oude man begint een verhaal waar Krusk duidelijk al honderd keer naar geluisterd heeft.
 >
 > Uiteindelijk brengt hij jullie naar een lange tafel aan de rand van het plein.
@@ -88,9 +98,7 @@ Lees of parafraseer:
 >
 > Dan kijkt hij de tafel rond.
 >
-> “Jullie zien er niet uit alsof jullie samen gereisd hebben.”
->
-> Een korte stilte.
+> “Wat brengt jullie naar het Oogstfeest?”
 >
 > Krusk neemt zelf een beker, leunt tegen het uiteinde van de tafel en knikt naar degene die het dichtst bij hem zit.
 >
@@ -98,8 +106,12 @@ Lees of parafraseer:
 >
 > “Wie zijn jullie eigenlijk?”
 >
-> **[Hier laat je iedere speler zijn personage voorstellen.]**
->
+**Speelmoment:** laat iedere speler kort naam, uiterlijk en reden van komst vertellen. Vraag bij een bestaande groep hoe ze elkaar kennen. Alleen als de personages vreemden zijn, kan Krusk toevoegen: “Jullie zien er niet uit alsof jullie samen gereisd hebben.”
+
+**Hendrik introduceren:** een vriendelijke man komt lege bekers ophalen. Krusk stelt hem voor: “Hendrik houdt hier de bar draaiende.” Hendrik noemt terloops zijn dochter Mira, die ergens op het feest rondloopt. Zo kennen de spelers de vader voordat hij alarm slaat.
+
+#### 3. Het plein verkennen
+
 > Terwijl jullie elkaar leren kennen, gaat het feest rondom jullie gewoon verder.
 >
 > Vanaf jullie tafel hebben jullie bijna het volledige dorpsplein in zicht.
@@ -123,6 +135,8 @@ Lees of parafraseer:
 > Er staat nauwelijks wind.
 >
 > En toch lijkt het, wanneer je er lang genoeg naar kijkt, alsof de oude molen niet helemaal verlaten is.
+
+**Speelmoment:** vraag wat hun aandacht trekt: ringwerpen, armpje drukken, Martha's kraam, de burgemeester of de molen. Laat ieder die wil iets proberen. Start daarna het incident; als ze meteen naar de molen gaan, gebruik je het [alternatieve pad](ALTERNATIEVE_PADDEN.md#ze-gaan-meteen-naar-de-molen).
 
 ---
 
@@ -256,7 +270,7 @@ Wanneer het feest op gang komt:
 >
 > “Mira?”
 >
-> Een man duwt zich tussen de mensen door.
+> Hendrik, de man die eerder jullie bekers kwam ophalen, duwt zich tussen de mensen door.
 >
 > “Mira?”
 >
@@ -398,7 +412,7 @@ De sleutel past op een kleine onderhoudsdeur aan de achterkant van de molen.
 
 ---
 
-#### Als de spelers de metalen scherf tonen
+### Als de spelers de metalen scherf tonen
 
 Wanneer Martha de zwarte metalen scherf ziet, verandert haar houding.
 
@@ -418,7 +432,50 @@ Ze wijst ze één voor één aan.
 >
 > “En het oog... dat was de opdracht. Wat het systeem moest herkennen. Waarnaar het moest luisteren.”
 
-Martha weet niet precies hoe de mechanismen tegenwoordig werken, maar wa
+Martha weet niet precies hoe de mechanismen tegenwoordig werken, maar waarschuwt dat de drie systemen ooit samen moesten functioneren.
+
+> “Als één ervan beschadigd is, kun je het misschien herstellen.”
+>
+> “Als ze allemaal tegelijk verkeerd werken...”
+>
+> Ze kijkt richting de heuvel.
+>
+> “Dan zou ik niet te lang blijven staan om te zien wat er gebeurt.”
+
+Ze merkt ook op dat de breuk in de scherf vers is.
+
+> “Dit stuk is oud. Die breuk niet.”
+>
+> “Wat er vanavond ook wakker geworden is, heeft ergens iets losgetrokken.”
+
+---
+
+### Wat Martha de spelers kan meegeven
+
+Na het gesprek weten de spelers:
+
+- dat de molen bovenop een veel oudere installatie staat;
+- dat de metalen scherf bij die installatie hoort;
+- dat de symbolen **Beweging**, **Bescherming** en **Opdracht** voorstellen;
+- dat deze drie systemen oorspronkelijk samenwerkten;
+- dat er een onderhoudsdeur aan de achterkant van de molen is;
+- dat Martha's koperen sleutel deze deur kan openen.
+
+Martha geeft de sleutel mee.
+
+> “Als jullie daar binnengaan, kijk dan eerst voor je iets kapotslaat.”
+>
+> “Oude machines hebben de vervelende gewoonte zich te herinneren waarvoor ze gemaakt zijn.”
+
+---
+
+### Als de spelers de scherf niet hebben
+
+Martha kan nog steeds vertellen dat er oude mechanismen onder de molen liggen en de onderhoudssleutel meegeven.
+
+De betekenis van **Beweging**, **Bescherming** en **Opdracht** ontdekken de spelers dan pas later in de molen.
+
+Zo is de scherf nuttig, maar niet noodzakelijk om het avontuur verder te kunnen spelen.
 
 ---
 
@@ -509,7 +566,7 @@ De molen bestaat uit vijf zones, inclusief de Hartkamer.
 
 **DM-afspraak — routes:** voordeur → maalvloer → vallende vloer → voorraadkamer → Mira en Tik → Hartkamer. De zijdeur van Snurk is Martha's onderhoudsdeur: haar sleutel opent die en leidt rechtstreeks naar de voorraadkamer, voorbij de vallende vloer. Zonder sleutel kan een personage het slot openen met Thieves' Tools DC 12; bij mislukking blijft de voordeur beschikbaar.
 
-Tik kan vanuit kamer 4 een veilige onderhoudstunnel naar de Hartkamer tonen. Die komt bij bediening C uit; er is geen extra val. Dezelfde tunnel kan gebruikt worden om Mira en Tik naar de uitgang te begeleiden. De bovenverdieping is leeg en optioneel.
+Tik kent vanuit kamer 4 een onderhoudstunnel naar de Hartkamer, met een uitgang bij bediening C. De tunnel zelf heeft geen extra val, maar de Hartkamer blijft gevaarlijk. Deze tunnel is geen aparte uitgang naar buiten. Voor evacuatie gaan de spelers vanuit kamer 4 terug door de voorraadkamer naar de zijdeur, die van binnen zonder sleutel open kan. De bovenverdieping is leeg en optioneel.
 
 | Locatie | Direct bruikbaar | Handout |
 |---|---|---|
@@ -540,11 +597,11 @@ De plaatsing van het logboek en de inscriptie is een DM-afspraak; ze geven voora
 - verse voetsporen;
 - een kapotte koboldlantaarn;
 - een luik naar beneden;
-- een oud symbool van drie tandwielen rond een ster.
+- drie oude onderhoudssymbolen: een **wiel**, een **schild** en een **open oog**.
 
 **Investigation DC 11**
 
-Een speler ontdekt dat het symbool later correspondeert met drie onderhoudsrunen.
+Een speler ontdekt bij succes de bijschriften **Beweging**, **Bescherming** en **Opdracht**. Wie de scherf of het medaillon heeft gezien, herkent de symbolen zonder worp. Ook bij mislukking blijven de tekens zichtbaar; de inscriptie en het logboek geven verdere uitleg.
 
 ---
 
@@ -589,7 +646,7 @@ Gebruik de **Meelwachters** uit het encounterbestand.
 
 Na het gevecht kunnen spelers zien dat de constructies oorspronkelijk reparatietaken uitvoerden.
 
-Dat is de eerste hint dat niet alles hier bedoeld was als wapen.
+Dit bevestigt dat niet alles hier bedoeld was als wapen.
 
 ---
 
@@ -613,9 +670,21 @@ Mira legt uit:
 - het reageert op lichtgevende runen;
 - ze hoorde een stem zeggen: **“Protocol drie onvolledig.”**
 
-Tik kent de onderhoudstunnels.
+Tik kent de onderhoudstunnel naar bediening C in de Hartkamer.
 
-Hij kan één veilige route tonen.
+#### Waarom ze nog hier zijn
+
+**DM-afspraak:** Tik kan door zijn gewonde been niet zelfstandig lopen. Mira kan hem niet door de voorraadkamer dragen en weigert hem achter te laten. De actieve meelwachters maken die terugweg bovendien gevaarlijk. Tik weet hoe je beneden bij C komt, maar durft met Mira niet langs de Molenwachter.
+
+Een personage kan Tik dragen; twee personages kunnen hem ondersteunen of een draagbaar maken. Vraag op de vrijgemaakte route geen extra reddingsworp. Passende genezing kan hem weer laten lopen; dat beloont de spelers en verwijdert de noodzaak om hem te dragen.
+
+#### Eerst redden of verder onderzoeken?
+
+Laat de spelers kiezen:
+
+- **Eerst evacueren:** terug door de voorraadkamer en via de zijdeur naar buiten. Nog actieve meelwachters moeten ze vermijden, afleiden of uitschakelen. Buiten kunnen Hendrik en Krusk de zorg overnemen.
+- **Naar de Hartkamer:** Tik legt de tunnel naar C uit. Mira en Tik blijven veilig in kamer 4, tenzij de spelers hen bewust meenemen; aan de rand van de Hartkamer houden ze zich uit het gevecht.
+- **Na de redding stoppen:** Mira is gered, maar de molen draait nog. Gebruik [Mira redden en vertrekken](ALTERNATIEVE_PADDEN.md#ze-redden-mira-en-vertrekken) voor een open einde zonder verplichte finale.
 
 ---
 
@@ -651,7 +720,7 @@ Hij kan één veilige route tonen.
 
 De Molenwachter verschijnt.
 
-**Open nu:** [statblock en omgevingsacties](ENCOUNTERS_EN_STATBLOCKS.md#finale--de-molenwachter). Laat Mira en Tik bij de uitgang schuilen; zij nemen geen gewone gevechtsbeurten over.
+**Open nu:** [statblock en omgevingsacties](ENCOUNTERS_EN_STATBLOCKS.md#finale--de-molenwachter). Als Mira en Tik mee zijn, laat hen bij de toegang schuilen; zij nemen geen gewone gevechtsbeurten over. Zijn ze al geëvacueerd, dan blijven ze buiten.
 
 **DM-afspraak — opstelling:** de ingang ligt 30 ft van de Hartsteen; A, B en C staan elk 15 ft van de steen en 20 ft van elkaar. De wachter start naast de steen. De onderhoudstunnel komt bij C uit. Beschrijf de drie oplichtende bedieningen meteen, zodat spelers weten dat ze meer kunnen doen dan aanvallen.
 
@@ -753,7 +822,7 @@ Iedereen maakt één passende check met **DC 10**.
 
 Laat spectaculaire beschrijvingen toe.
 
-**DM-afspraak:** een mislukking betekent dat iemand hulp nodig heeft of een los voorwerp verliest; geen onmiddellijke dood. Vraag een andere speler hoe die helpt en laat de groep samen buitenkomen. Mira en Tik gaan met hen mee.
+**DM-afspraak:** een mislukking betekent dat iemand hulp nodig heeft of een los voorwerp verliest; geen onmiddellijke dood. Vraag een andere speler hoe die helpt en laat de groep samen buitenkomen. Mira en Tik gaan met hen mee als ze nog binnen zijn; zijn ze al geëvacueerd, dan wachten ze buiten.
 
 ---
 
@@ -776,7 +845,7 @@ Mogelijke gevolgen:
 - de molen wordt verzegeld;
 - de avonturiers krijgen een uitnodiging terug te keren.
 
-Sluit af met:
+Na een finale waarin de molen stilvalt, sluit je af met:
 
 > Terwijl de zon boven Eikenwoude opkomt, staat de oude molen opnieuw stil.
 >

@@ -62,11 +62,7 @@ Een nieuwsgierig meisje uit het dorp, **Mira**, volgde hen nadat ze vreemde lich
 
 Mira ontdekte een gewonde jonge kobold, **Tik**, en probeerde hem te helpen.
 
-Daardoor zit ze nu vast in de molen.
-
-Niet omdat ze gevangen is.
-
-Maar omdat de Molenwachter iedereen binnen beschouwt als een potentiële bedreiging.
+Mira blijft bij Tik: hij kan niet lopen en zij kan hem niet alleen dragen. De meelwachters blokkeren de gewone terugweg; de tunnel beneden leidt naar de gevaarlijke Hartkamer. Ze is niet ontvoerd, maar heeft hulp nodig om hen beiden veilig buiten te krijgen.
 
 ---
 

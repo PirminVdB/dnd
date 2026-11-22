@@ -106,11 +106,24 @@ Vraag één relevante check per speler.
 
 ---
 
+## Ze redden Mira en vertrekken
+
+De redding is geslaagd, ook als de spelers de Hartkamer overslaan. Hendrik wordt met Mira herenigd; Krusk vangt Tik op. Bram laat zijn onmiddellijke brandplan varen zodra hij ziet dat Mira veilig is. Hij wil wel dat de molen afgesloten wordt.
+
+Leg de resterende keuze zichtbaar op tafel: de wieken draaien nog, af en toe klinkt een metalen slag en de oude installatie is niet hersteld. Martha stelt voor de toegangen te bewaken tot iemand de oorzaak kan onderzoeken. De burgemeester vraagt of de groep wil terugkeren, maar accepteert hun weigering.
+
+- **Ze keren terug:** hervat bij de vrijgemaakte molenkamers. Tik kan vanuit de herberg uitleggen waar de tunnel naar C ligt.
+- **Ze stoppen:** het dorp zet de omgeving af. Eindig met dank voor de redding en de nog draaiende molen als mogelijk vervolg. Gebruik niet de slottekst waarin de molen stilstaat.
+
+Laat geen nieuwe ramp ontstaan uitsluitend om hen alsnog de finale in te dwingen.
+
+---
+
 ## Ze lopen weg uit de Hartkamer
 
 De Molenwachter volgt niet voorbij de molen.
 
-Maar buiten verzamelt Bram dorpelingen met fakkels.
+Als Mira nog niet veilig is, kan Bram buiten met dorpelingen en fakkels staan; gebruik de eerder aangekondigde escalatie. Is zij al gered, volg dan [Mira redden en vertrekken](#ze-redden-mira-en-vertrekken): Bram wil de molen afzetten.
 
 Nu moeten de spelers beslissen:
 

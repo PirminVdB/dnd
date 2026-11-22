@@ -12,13 +12,14 @@ Kobolds activeren de Hartsteen → Mira volgt vrijwillig en helpt Tik → tijden
 
 | Persoon | Onthouden |
 |---|---|
-| Hendrik | Mira's vader; herkent haar armband. |
+| Krusk | Eigenaar/kok van De Rustende Eik; verwelkomt de groep en regelt opvang. |
+| Hendrik | Barman bij Krusk en Mira's vader; herkent haar armband. |
 | Pim | Zag dat Mira de kobolds vrijwillig volgde. |
 | Martha | Geschiedenis + sleutel van de zijdeur. |
 | Bram | Mira's oom; wil brandstichten. Kondig zijn escalatie aan. |
 | Snurk | Goblin, geen kobold; waarschuwt en kent de zijdeur. |
 | Mira | Beschermt Tik; hoorde “Protocol drie onvolledig”. |
-| Tik | Gewonde kobold; kent tunnel naar bediening C. |
+| Tik | Kan niet lopen; Mira laat hem niet achter. Kent tunnel naar C, geen buitenuitgang. |
 | Burgemeester Elian | Wil Mira terug en paniek voorkomen. |
 
 ## Onderzoek en molen
@@ -26,6 +27,10 @@ Kobolds activeren de Hartsteen → Mira volgt vrijwillig en helpt Tik → tijden
 **Clues:** armband (Investigation 10), sporen (Survival 11), scherf (Arcana/History/Smith's Tools 12), Pim (geruststellen of Persuasion 10), Martha (geen worp). Geef het essentiële spoor ook bij mislukking; drie clues zijn geen toegangseis.
 
 **Route:** maalvloer → kapotte vloer (Dex save 11) → meelwachters → Mira en Tik → Hartkamer. Zijdeur + Martha's sleutel omzeilen de kapotte vloer. Medaillon ligt in de opslagruimte onder de vloer; logboek en inscriptie op de maalvloer.
+
+**Redding:** draag of genees Tik; keer via de voorraadkamer terug naar de van binnen te openen zijdeur. Krusk en Hendrik vangen hen buiten op. Als de groep daarna stopt, wordt de molen afgezet en blijft hij draaien: [open einde](ALTERNATIEVE_PADDEN.md#ze-redden-mira-en-vertrekken).
+
+**Symbolen:** overal wiel = Beweging, schild = Bescherming, oog = Opdracht.
 
 ## Gevechten
 

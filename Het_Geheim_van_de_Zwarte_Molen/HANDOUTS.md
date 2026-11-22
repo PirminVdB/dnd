@@ -16,7 +16,7 @@ Toon of kopieer alleen de betreffende handout. De volledige pagina en de kaart v
 | [F — Kaart](#handout-f--kaart-van-de-molen) | DM-overzicht; geef spelers alleen ontdekte delen. |
 | [G — Runen](#handout-g--de-drie-runen) | Bij de drie bedieningen in de Hartkamer. |
 
-B en D zijn als praktische DM-afspraak op de maalvloer geplaatst. De zijdeur komt uit in de voorraadkamer; ze omzeilt de vallende vloer. De bovenverdieping op de kaart is optioneel en leeg.
+B en D zijn als praktische DM-afspraak op de maalvloer geplaatst. De zijdeur komt uit in de voorraadkamer; ze omzeilt de vallende vloer en opent van binnen zonder sleutel. De tunnel vanuit kamer 4 leidt alleen naar de Hartkamer, niet naar buiten. De bovenverdieping op de kaart is optioneel en leeg.
 
 Deze teksten kun je apart tonen of kopiëren naar losse kaartjes.
 
@@ -118,7 +118,7 @@ Te vinden in haar jaszak:
                   [Vallende vloer]
                          |
                 +--------+-------+
-                | Voorraadkamer  |
+Buiten <------>  | Voorraadkamer  |  (zijdeur)
                 |  Meelwachters  |
                 +--------+-------+
                          |

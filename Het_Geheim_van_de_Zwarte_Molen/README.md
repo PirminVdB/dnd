@@ -38,7 +38,7 @@ Houd deze pagina open als startscherm. Open [scènes](SCENES_EN_LOCATIES.md), [g
 
 Kobolds openden een onderhoudsdeur en activeerden de Hartsteen. Mira volgde hen vrijwillig en helpt de gewonde Tik. De Molenwachter ziet vrijwel iedereen als indringer. De goblins bij de barricade waarschuwen voor het gevaar; zij zijn een andere groep dan de kobolds.
 
-**Volgorde voor de DM:** de eerste lichtflitsen en Mira's vertrek gebeuren vóór de grote stroomuitval op het feest. Bij het incident merkt Hendrik pas dat ze weg is. Dit verduidelijkt de timing van het bestaande verhaal.
+**Volgorde voor de DM:** de eerste lichtflitsen en Mira's vertrek gebeuren vóór de windvlaag die de lantaarns op het feest dooft. Bij het incident merkt Hendrik pas dat ze weg is. Dit verduidelijkt de timing van het bestaande verhaal.
 
 ## Afspraken en aanvullingen in dit dossier
 
@@ -46,11 +46,18 @@ Dit is een avontuur met vereenvoudigde 5e-achtige regels en huisregels, geen vol
 
 Passages met **DM-afspraak** vullen praktische gaten in het oorspronkelijke avontuur op: routes, mislukte checks, tijdsdruk en de eindprocedures. Ze zijn bedoeld als direct bruikbare standaard voor deze sessie en kunnen vooraf aangepast worden.
 
+## Personages aan tafel
+
+- [Alfia](Characters/Alfia.md)
+- [Barry](Characters/Barry.md)
+- [Selina — Warlock](Characters/Selina_Warlock.md)
+- [Senne — Fighter](Characters/Senne_Fighter.md)
+
 ## Overige bestanden
 
 - [Introductie en leeswijzer](INTRODUCTIE.md)
 - [Krusk — bestaand personagedocument](Pirmin_Krusk.docx)
-- [Bestaand personageoverzicht](Characters.xlsx)
+- [Bestaand personageoverzicht](Characters/Characters.xlsx)
 - Afbeeldingen: [Oogstfeest](Sunset%20Harvest%20Festival%20at%20the%20Windmill.png), [goblins](Goblins%20Guard%20the%20Forest%20Road.png), [Molenwachter](The%20Mill%20Guardian%20Awakens.png), [Krusk](Krusk,%20Orc%20of%20the%20Sunset%20Village.png).
 
 De Word- en Excelbestanden blijven als losse bijlagen behouden; de speelroute staat in Markdown.

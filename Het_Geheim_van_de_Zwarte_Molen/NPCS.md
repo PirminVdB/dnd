@@ -9,7 +9,8 @@
 | [Mira Koster](#mira-koster) | Wil Tik veilig krijgen. | Moedig en direct; ging vrijwillig. |
 | [Tik](#tik) | Gewonde kobold; wil veiligheid. | Nerveus, beleefd, technisch slim. |
 | [Snurk](#snurk) | Goblin; houdt anderen bij de molen weg. | Luid en komisch: “Professionals!” |
-| [Hendrik Vale](#hendrik-vale) | Herbergier en Mira's vader. | Paniek zodra zij ontbreekt. |
+| [Krusk](#krusk) | Eigenaar en kok van De Rustende Eik. | Warm, luid en praktisch; helpt het dorp. |
+| [Hendrik Vale](#hendrik-vale) | Barman bij Krusk en Mira's vader. | Paniek zodra zij ontbreekt. |
 | [Elian Vermeer](#burgemeester-elian-vermeer) | Burgemeester; wil antwoorden. | Redelijk, voorzichtig. |
 | [Bram Koster](#bram-koster) | Smid en Mira's oom; wil ingrijpen. | Fakkels en ongeduld. |
 | [Martha](#oude-martha) | Kent de geschiedenis; bezit de sleutel. | Droge opmerkingen. |
@@ -51,6 +52,8 @@ Tik veilig krijgen.
 **Persoonlijkheid:** nerveus, technisch slim, beleefd  
 **Specialiteit:** oude mechanismen begrijpen
 
+Zijn gewonde been verhindert dat hij alleen ontsnapt. Hij kent de tunnel van kamer 4 naar bediening C; de uitweg naar buiten loopt via de voorraadkamer en zijdeur.
+
 Tik spreekt gebroken Common.
 
 #### Typische uitspraken
@@ -87,9 +90,36 @@ Snurk wil eigenlijk een officiële baan.
 
 ---
 
+## Krusk
+
+**Rol:** eigenaar en kok van De Rustende Eik; verwelkomt de avonturiers
+
+**Persoonlijkheid:** hartelijk, direct, droog gevoel voor humor
+
+**Stem:** luid en ontspannen; kort en zakelijk wanneer het misgaat
+
+Hendrik werkt bij hem achter de bar. Krusk wil zijn gasten en het dorp veilig houden. Na het incident helpt hij Hendrik zoeken op het plein en houdt hij de herberg beschikbaar als opvangplaats. Hij kent de installatie onder de molen niet.
+
+#### Aan tafel
+
+- Brengt de personages samen zonder voor hen te beslissen.
+- Blijft tijdens het onderzoek in het dorp om de opvang te regelen.
+- Kan na de redding Mira en Tik opvangen, zodat de spelers vrij zijn om terug te keren.
+
+#### Typische uitspraken
+
+> “Eerste is van het huis.”
+>
+> “Hendrik, blijf even bij mij. Laat hen vertellen wat ze gezien hebben.”
+>
+> “Breng ze hierheen. Ik zorg voor dekens en een vrije tafel.”
+
+---
+
 ## Hendrik Vale
 
-**Rol:** herbergier en vader van Mira  
+**Rol:** barman in De Rustende Eik, in dienst bij Krusk, en vader van Mira
+
 **Persoonlijkheid:** vriendelijk, paniekerig wanneer Mira verdwijnt
 
 Hendrik voelt zich schuldig omdat hij haar nieuwsgierigheid altijd heeft aangemoedigd.
