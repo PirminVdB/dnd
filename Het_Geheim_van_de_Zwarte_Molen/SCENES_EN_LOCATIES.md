@@ -26,13 +26,103 @@ Personages maken komt hier nog bij. Met veel overleg of zes spelers kan het avon
 
 Lees of parafraseer:
 
-> De weg daalt tussen goudkleurige velden naar een klein dorp tussen heuvels en bos. Slingers hangen tussen houten huizen. Op het plein staat een lange tafel vol brood, kaas, gebraden groenten en kruiken bier. Kinderen rennen met houten zwaarden rond een fontein.
+> De weg naar Eikenwoude loopt langzaam naar beneden tussen uitgestrekte goudkleurige velden. De laatste zon van de dag hangt laag boven de heuvels en kleurt het graan koperrood. Hier en daar zijn boeren nog bezig hun laatste karren binnen te halen, maar hoe dichter jullie bij het dorp komen, hoe duidelijker het wordt dat vandaag niemand veel zin heeft om nog te werken.
 >
-> Boven de daken steekt in de verte een donkere molen uit.
+> Vanuit de verte klinkt muziek.
 >
-> Eén van zijn wieken ontbreekt.
+> Eerst slechts een flard van een viool, maar even later mengen gelach, stemmen en het ritmische slaan van een trommel zich door elkaar. Aan houten paaltjes langs de weg hangen kleine rood-gouden vlaggetjes. Op enkele daarvan staat met grote geschilderde letters:
 >
-> De andere drie staan roerloos in de avondlucht.
+> **OOGSTFEEST EIKENWOUDE — IEDEREEN WELKOM**
+>
+> Wanneer jullie het dorp binnenwandelen, opent de straat zich naar een ruim dorpsplein.
+>
+> Eikenwoude is geen grote plaats. Een paar tientallen houten en stenen huizen staan rond het plein, hun ramen verlicht door warme olielampen. Slingers van bladeren, korenaren en gedroogde bloemen hangen tussen de gevels. Lange houten tafels staan vol brood, geroosterd vlees, kazen, fruit en kannen bier. Een groep muzikanten speelt op een klein verhoogd podium terwijl kinderen tussen de tafels rennen en volwassenen luid discussiëren over wie straks het ringwerpen of het armpje drukken zal winnen.
+>
+> De geur van gebakken brood, houtrook en gekruid vlees hangt in de koele avondlucht.
+>
+> Aan de rand van het plein staat het grootste gebouw van het dorp: **herberg De Rustende Eik**.
+>
+> Boven de deur hangt een houten uithangbord met daarop een enorme eik waaronder een slapende reiziger ligt. De deur staat wagenwijd open en van binnen klinkt minstens evenveel lawaai als van het plein.
+>
+> Nog voor jullie goed en wel kunnen beslissen waar jullie naartoe zullen gaan, stapt er iemand uit de herberg.
+>
+> Een enorme Orc vult bijna de volledige deuropening.
+>
+> Hij draagt geen harnas en geen wapens, maar een leren schort dat duidelijk al heel wat jaren dienst heeft gedaan. Zijn armen lijken haast te breed voor zijn lichaam en in één hand houdt hij moeiteloos een houten tonnetje alsof het niet veel meer weegt dan een broodmand.
+>
+> Wanneer hij jullie ziet, verschijnt er een brede grijns op zijn gezicht.
+>
+> “Reizigers!”
+>
+> Hij zet het tonnetje neer.
+>
+> “Dan heeft die vervloekte flyer eindelijk eens gewerkt.”
+>
+> De Orc steekt een enorme hand uit.
+>
+> “Krusk. Eigenaar van De Rustende Eik. Kok wanneer het moet. Uitsmijter wanneer iemand dom genoeg is. En vandaag blijkbaar ook officiële verwelkomingscommissie.”
+>
+> Hij werpt een blik over het plein.
+>
+> “Welkom in Eikenwoude.”
+>
+> Krusk gebaart dat jullie hem moeten volgen en baant zich zonder enige moeite een weg tussen de feestvierders. Mensen groeten hem terwijl hij passeert. Een kind probeert hem iets toe te roepen, iemand duwt hem een stuk brood in de handen en een oude man begint een verhaal waar Krusk duidelijk al honderd keer naar geluisterd heeft.
+>
+> Uiteindelijk brengt hij jullie naar een lange tafel aan de rand van het plein.
+>
+> “Hier.”
+>
+> Met één arm schuift hij een zware houten bank een stukje achteruit.
+>
+> “Beste plaats van het feest. Dicht genoeg bij het eten, ver genoeg van de muzikanten.”
+>
+> Hij kijkt even naar het podium.
+>
+> “Geloof me. Dat wordt belangrijker naarmate de avond vordert.”
+>
+> Krusk verdwijnt even in de herberg en keert kort daarna terug met een houten dienblad vol bekers.
+>
+> Hij zet voor ieder van jullie een drankje neer.
+>
+> “Eerste is van het huis.”
+>
+> Dan kijkt hij de tafel rond.
+>
+> “Jullie zien er niet uit alsof jullie samen gereisd hebben.”
+>
+> Een korte stilte.
+>
+> Krusk neemt zelf een beker, leunt tegen het uiteinde van de tafel en knikt naar degene die het dichtst bij hem zit.
+>
+> “Dus…”
+>
+> “Wie zijn jullie eigenlijk?”
+>
+> **[Hier laat je iedere speler zijn personage voorstellen.]**
+>
+> Terwijl jullie elkaar leren kennen, gaat het feest rondom jullie gewoon verder.
+>
+> Vanaf jullie tafel hebben jullie bijna het volledige dorpsplein in zicht.
+>
+> Jullie zien kinderen die proberen ringen rond houten paaltjes te werpen. Een paar meter verder worden onder luid gejuich twee sterke dorpelingen klaargestoomd voor een wedstrijd armpje drukken. Aan de overkant staat een oudere vrouw kruiden, kleine amuletten en allerlei vreemde voorwerpen uitgestald te verkopen. Bij het gemeentehuis probeert een keurig geklede man met een beker wijn in zijn hand met zowat iedereen een praatje te maken.
+>
+> En telkens wanneer jullie tussen de huizen door naar het westen kijken, zien jullie dezelfde donkere vorm boven het dorp uitsteken.
+>
+> De oude molen.
+>
+> Hij staat op een lage heuvel net buiten Eikenwoude, ver genoeg van het feest om bijna een silhouet tegen de avondlucht te vormen.
+>
+> Ooit had hij vier grote wieken.
+>
+> Nu zijn er nog maar drie.
+>
+> Twee staan ongeveer haaks op elkaar. Waar de vierde zou moeten zitten, bevindt zich enkel een donkere, afgebroken balk. Daardoor heeft de molen iets onevenwichtigs, alsof hij al jaren wacht tot iemand het ontbrekende stuk terugplaatst.
+>
+> Geen van de drie overgebleven wieken beweegt.
+>
+> Er staat nauwelijks wind.
+>
+> En toch lijkt het, wanneer je er lang genoeg naar kijkt, alsof de oude molen niet helemaal verlaten is.
 
 Laat iedere speler kort zeggen:
 
