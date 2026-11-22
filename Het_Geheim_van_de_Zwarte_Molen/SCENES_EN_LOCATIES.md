@@ -124,12 +124,6 @@ Lees of parafraseer:
 >
 > En toch lijkt het, wanneer je er lang genoeg naar kijkt, alsof de oude molen niet helemaal verlaten is.
 
-Laat iedere speler kort zeggen:
-
-- hoe hun personage eruitziet;
-- waarom die naar Eikenwoude komt;
-- wat de anderen als eerste aan hem of haar opvalt.
-
 ---
 
 ### Het Oogstfeest
@@ -176,31 +170,107 @@ Een goed antwoord levert een cryptische waarschuwing op:
 
 Wanneer het feest op gang komt:
 
-> Zonder waarschuwing dooft elke lantaarn op het plein.
+> Het feest is ondertussen volledig op gang gekomen.
 >
-> Muziek stopt.
+> Muziek klinkt over het plein. Bekers worden tegen elkaar getikt, kinderen rennen tussen de tafels door en ergens wordt luid gejuicht wanneer opnieuw iemand bij het armpje drukken verliest.
 >
-> Stemmen vallen stil.
+> Dan verandert de lucht.
 >
-> In de verte kraakt hout.
+> Eerst bijna onmerkbaar.
 >
-> Langzaam begint één van de wieken van de oude molen te bewegen.
+> Een koude windvlaag trekt tussen de huizen door.
 >
-> Dan een tweede.
+> Slingers klapperen plotseling hard tegen de gevels. Servetten en losse bladeren worden van de tafels gerukt. Een paar mensen grijpen naar hun bekers terwijl de wind in één ruk over het plein jaagt.
 >
-> Dan een derde.
+> De vlammen in de lantaarns beginnen wild te dansen.
+>
+> Eén dooft uit.
+>
+> Dan nog één.
+>
+> En nog één.
+>
+> In enkele seconden trekt een golf van duisternis over het plein totdat de laatste lantaarn uitgaat.
+>
+> De muziek stopt.
+>
+> Gesprekken vallen stil.
+>
+> Zelfs de kinderen houden op met rennen.
+>
+> En dan is de wind weg.
+>
+> Volledig weg.
+>
+> De vlaggen hangen slap.
+>
+> De bomen bewegen niet.
+>
+> Er valt een onnatuurlijke stilte over Eikenwoude.
+>
+> Vanuit de richting van de heuvel klinkt langzaam het kraken van oud hout.
+>
+> **Krrrrrrrk...**
+>
+> Wanneer jullie naar de molen kijken, zien jullie één van de drie overgebleven wieken bewegen.
+>
+> Eerst slechts enkele centimeters.
+>
+> Dan langzaam verder.
+>
+> Een tweede wiek komt in beweging.
+>
+> En daarna de derde.
+>
+> De oude molen begint te draaien.
 >
 > Er staat geen wind.
 >
-> Vanuit de heuvel klinkt een diepe metalen slag.
+> Er klinkt een laag, schurend geluid vanuit de heuvel, alsof ergens diep onder de grond een enorm metalen mechanisme na tientallen jaren opnieuw probeert te bewegen.
+>
+> Het geluid wordt harder.
+>
+> Metaal schuurt over metaal.
+>
+> Iets zwaars lijkt vast te lopen.
+>
+> Dan—
 >
 > **KLANG.**
 >
-> Wanneer de lantaarns opnieuw aangaan, begint iemand te roepen.
+> De slag is zo diep en hard dat hij door het plein lijkt te dreunen. Glazen trillen op de tafels. Iemand slaakt een korte kreet.
+>
+> Daarna blijft alleen het trage gekraak van de molen over.
+>
+> Enkele ogenblikken later beginnen mensen voorzichtig de lantaarns opnieuw aan te steken.
+>
+> Eerst één.
+>
+> Dan nog één.
+>
+> Langzaam keert het warme licht terug naar het plein.
+>
+> Maar de sfeer van enkele seconden geleden is verdwenen.
+>
+> Dan klinkt er plots een stem vanuit de menigte.
 >
 > “Mira?”
 >
+> Een man duwt zich tussen de mensen door.
+>
+> “Mira?”
+>
+> Zijn stem wordt luider.
+>
+> Paniekeriger.
+>
 > “MIRA!”
+>
+> Niemand antwoordt.
+>
+> En terwijl de oude molen in de verte verder draait, wordt één ding duidelijk:
+>
+> **Mira is verdwenen.**
 
 ---
 
