@@ -1,8 +1,28 @@
-# 03 — Scènes en locaties
+# Scènes en locaties
 
-# ACTE 1 — Eikenwoude
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
 
-## Aankomst
+## Gebruik aan tafel
+
+Lees alleen de geciteerde beschrijvingen voor; de overige tekst is voor jou. **DC** is het te halen totaal van de worp plus bonus. Vraag steeds wat de spelers willen doen voordat je een check vraagt.
+
+[Feest](#acte-1--eikenwoude) · [Onderzoek](#acte-2--het-onderzoek) · [Bos](#acte-3--het-bos) · [Molen](#acte-4--de-zwarte-molen) · [Finale](#acte-5--de-hartkamer) · [Epiloog](#epiloog)
+
+| Scène | Richttijd voor een sessie van 4 uur | Als je tijd tekortkomt |
+|---|---|---|
+| Feest + incident | 25 min | Eén minispel is voldoende. |
+| Onderzoek | 30 min | Geef een duidelijk spoor; geen minimumaantal clues eisen. |
+| Barricade | 25 min | Laat Snurk snel onderhandelen. |
+| Molen | 65 min | Sla de meelwachters over. |
+| Hartkamer | 60 min | Tik wijst de bediening aan. |
+| Epiloog | 15 min | Geef elke speler één afsluitende keuze. |
+| Pauze en speling | 20 min | Plan een pauze vóór de finale. |
+
+Personages maken komt hier nog bij. Met veel overleg of zes spelers kan het avontuur 5–6 uur duren.
+
+## ACTE 1 — Eikenwoude
+
+### Aankomst
 
 Lees of parafraseer:
 
@@ -22,11 +42,11 @@ Laat iedere speler kort zeggen:
 
 ---
 
-## Het Oogstfeest
+### Het Oogstfeest
 
 Gebruik één of meer minispelletjes.
 
-### Armpje drukken
+#### Armpje drukken
 
 **Athletics DC 11**
 
@@ -36,7 +56,7 @@ Mislukking: luid applaus voor de tegenstander.
 
 ---
 
-### Ringwerpen
+#### Ringwerpen
 
 **Dexterity check DC 12**
 
@@ -46,7 +66,7 @@ Een speler met de gelukshanger mag later één mislukte ability check opnieuw ro
 
 ---
 
-### Raadsel van Oude Martha
+#### Raadsel van Oude Martha
 
 Martha vraagt:
 
@@ -62,7 +82,7 @@ Een goed antwoord levert een cryptische waarschuwing op:
 
 ---
 
-# Het incident
+## Het incident
 
 Wanneer het feest op gang komt:
 
@@ -94,17 +114,27 @@ Wanneer het feest op gang komt:
 
 ---
 
-# ACTE 2 — Het onderzoek
+## ACTE 2 — Het onderzoek
 
 De spelers mogen zelf bepalen waar ze beginnen.
 
 Er zijn vijf belangrijke aanwijzingen.
 
-Ze hebben er maar drie nodig om verder te kunnen.
+Drie aanwijzingen geven een duidelijk beeld, maar zijn geen toegangseis. Zodra de spelers een spoor willen volgen, kan het verhaal verder.
+
+**DM-afspraak — mislukte checks:** geef het noodzakelijke spoor ook bij een mislukking. De worp bepaalt extra inzicht of een complicatie, niet of Mira gevonden kan worden. Bijvoorbeeld: de sporen zijn zichtbaar, maar het uitzoeken kost tijd en Bram wordt ongeduldiger.
+
+| Aanwijzing | Betekenis | Bij mislukking |
+|---|---|---|
+| Armband | Mira verliet het plein; Hendrik herkent hem. | De armband wordt gevonden, de modder valt niet op. |
+| Voetsporen | Kind en kobolds liepen naar het bos. | De richting blijft duidelijk; de soorten niet. |
+| Scherf | Oude runen en mechanismen zijn betrokken. | Bewaar de scherf; Martha kan hem later duiden. |
+| Pim | Mira volgde vrijwillig. | Na geruststelling vertelt hij het alsnog. |
+| Martha | Onder de molen ligt een oude installatie. | Haar informatie en sleutel vragen geen worp. |
 
 ---
 
-## Aanwijzing 1 — Mira's armband
+### Aanwijzing 1 — Mira's armband
 
 Bij de rand van het plein ligt een gevlochten blauwe armband.
 
@@ -116,7 +146,7 @@ Hendrik herkent hem meteen als die van Mira.
 
 ---
 
-## Aanwijzing 2 — Kleine voetsporen
+### Aanwijzing 2 — Kleine voetsporen
 
 Achter de herberg lopen kleine voetafdrukken richting het bos.
 
@@ -133,7 +163,7 @@ De andere zijn koboldsporen.
 
 ---
 
-## Aanwijzing 3 — De metalen scherf
+### Aanwijzing 3 — De metalen scherf
 
 Bij een omgevallen hek ligt een dun stukje zwart metaal.
 
@@ -145,7 +175,7 @@ Een Arcana-, History- of Smith's Tools-check van **DC 12** onthult:
 
 ---
 
-## Aanwijzing 4 — De getuige
+### Aanwijzing 4 — De getuige
 
 De negenjarige **Pim** heeft iets gezien.
 
@@ -157,7 +187,7 @@ Met geruststelling of **Persuasion DC 10** vertelt hij:
 
 ---
 
-## Aanwijzing 5 — Oude Martha
+### Aanwijzing 5 — Oude Martha
 
 Martha kent de geschiedenis van de molen.
 
@@ -173,7 +203,7 @@ Ze bezit een oude koperen sleutel die past op een onderhoudsdeur in de molen.
 
 ---
 
-# Dorpsconflict
+## Dorpsconflict
 
 Burgemeester **Elian Vermeer** wil Mira terug.
 
@@ -183,11 +213,15 @@ Als de spelers lang treuzelen, verzamelen zes dorpelingen zich om de molen in br
 
 Dit wordt later een tijdsdruk.
 
+**DM-afspraak — zichtbare escalatie:** begin met Brams dreigement. Na langdurig uitstel verzamelen zes dorpelingen zich met fakkels. Bij verder uitstel vertrekken ze; bij terugkeer uit de molen kan de groep hen treffen. Kondig elke stap aan. Laat de molen niet ongemerkt afbranden terwijl de spelers nog bezig zijn.
+
+Een concreet reddingsplan of geruststellend gesprek kan Bram laten wachten; vraag alleen bij twijfel Persuasion DC 12. Bij mislukking verlangt hij een zichtbaar teken dat Mira veilig is.
+
 ---
 
-# ACTE 3 — Het bos
+## ACTE 3 — Het bos
 
-## De barricade
+### De barricade
 
 Op het pad ligt een stapel takken, planken en een kapotte kruiwagen.
 
@@ -211,9 +245,9 @@ Snurk roept:
 
 ---
 
-## Mogelijke oplossingen
+### Mogelijke oplossingen
 
-### Praten
+#### Praten
 
 **Persuasion DC 11**
 
@@ -226,7 +260,7 @@ Snurk vertelt:
 
 ---
 
-### Intimidatie
+#### Intimidatie
 
 **Intimidation DC 12**
 
@@ -234,15 +268,15 @@ Snurk vertelt hetzelfde, maar vlucht daarna.
 
 ---
 
-### Vechtpartij
+#### Vechtpartij
 
-Gebruik de encounter uit `05_ENCOUNTERS_EN_STATBLOCKS.md`.
+Open [encounter 1 — barricade](ENCOUNTERS_EN_STATBLOCKS.md#encounter-1--de-barricade).
 
 Als één goblin uitgeschakeld wordt, probeert Snurk zich over te geven.
 
 ---
 
-## Extra informatie
+### Extra informatie
 
 Snurk kent een kleine zijdeur aan de achterkant van de molen.
 
@@ -250,13 +284,27 @@ Via deze route vermijden de spelers één val.
 
 ---
 
-# ACTE 4 — De Zwarte Molen
+## ACTE 4 — De Zwarte Molen
 
-De molen bestaat uit vijf zones.
+De molen bestaat uit vijf zones, inclusief de Hartkamer.
+
+**DM-afspraak — routes:** voordeur → maalvloer → vallende vloer → voorraadkamer → Mira en Tik → Hartkamer. De zijdeur van Snurk is Martha's onderhoudsdeur: haar sleutel opent die en leidt rechtstreeks naar de voorraadkamer, voorbij de vallende vloer. Zonder sleutel kan een personage het slot openen met Thieves' Tools DC 12; bij mislukking blijft de voordeur beschikbaar.
+
+Tik kan vanuit kamer 4 een veilige onderhoudstunnel naar de Hartkamer tonen. Die komt bij bediening C uit; er is geen extra val. Dezelfde tunnel kan gebruikt worden om Mira en Tik naar de uitgang te begeleiden. De bovenverdieping is leeg en optioneel.
+
+| Locatie | Direct bruikbaar | Handout |
+|---|---|---|
+| Maalvloer | Luik, sporen en symbool wijzen verder. | [B: inscriptie](HANDOUTS.md#handout-b--oude-inscriptie), [D: logboek](HANDOUTS.md#handout-d--fragment-uit-een-oud-logboek) |
+| Vallende vloer | Save DC 11; hulp of touw redt de hangende speler. | [C: medaillon](HANDOUTS.md#handout-c--onderhoudsmedaillon) in de opslagruimte |
+| Voorraadkamer | [Meelwachters](ENCOUNTERS_EN_STATBLOCKS.md#encounter-2--meelwachters); water helpt. | — |
+| Mira en Tik | Bevestigen wat er gebeurde; Tik kent de route. | [E: notitie](HANDOUTS.md#handout-e--miras-notitie), als Mira die toont |
+| Hartkamer | Drie bedieningen en vier manieren om af te sluiten. | [G: runen](HANDOUTS.md#handout-g--de-drie-runen) |
+
+De plaatsing van het logboek en de inscriptie is een DM-afspraak; ze geven vooraf hints voor de finale.
 
 ---
 
-## Kamer 1 — De maalvloer
+### Kamer 1 — De maalvloer
 
 > De deur kraakt open. Binnen hangt de geur van oud hout, stof en natte steen.
 >
@@ -268,7 +316,7 @@ De molen bestaat uit vijf zones.
 >
 > **tik… tik… tik…**
 
-### Te vinden
+#### Te vinden
 
 - verse voetsporen;
 - een kapotte koboldlantaarn;
@@ -281,7 +329,7 @@ Een speler ontdekt dat het symbool later correspondeert met drie onderhoudsrunen
 
 ---
 
-## Kamer 2 — De vallende vloer
+### Kamer 2 — De vallende vloer
 
 Een houten gang loopt over een oude transportschacht.
 
@@ -297,7 +345,7 @@ Een andere speler kan helpen met:
 
 - Athletics;
 - touw;
-- Mage Hand;
+- Mage Hand om een los touw te verplaatsen, niet om iemand op te tillen;
 - een creatief idee.
 
 Niemand valt meteen dood.
@@ -310,7 +358,7 @@ Het medaillon geeft later Advantage bij één poging om de Molenwachter te deact
 
 ---
 
-## Kamer 3 — De meelgeesten
+### Kamer 3 — De meelgeesten
 
 Een voorraadkamer bevat gescheurde zakken meel.
 
@@ -326,7 +374,7 @@ Dat is de eerste hint dat niet alles hier bedoeld was als wapen.
 
 ---
 
-## Kamer 4 — Mira en Tik
+### Kamer 4 — Mira en Tik
 
 > Achter een half ingestorte deur brandt een kleine lantaarn.
 >
@@ -352,9 +400,9 @@ Hij kan één veilige route tonen.
 
 ---
 
-# ACTE 5 — De Hartkamer
+## ACTE 5 — De Hartkamer
 
-## Beschrijving
+### Beschrijving
 
 > De trap eindigt bij een enorme ronde ruimte.
 >
@@ -384,15 +432,23 @@ Hij kan één veilige route tonen.
 
 De Molenwachter verschijnt.
 
+**Open nu:** [statblock en omgevingsacties](ENCOUNTERS_EN_STATBLOCKS.md#finale--de-molenwachter). Laat Mira en Tik bij de uitgang schuilen; zij nemen geen gewone gevechtsbeurten over.
+
+**DM-afspraak — opstelling:** de ingang ligt 30 ft van de Hartsteen; A, B en C staan elk 15 ft van de steen en 20 ft van elkaar. De wachter start naast de steen. De onderhoudstunnel komt bij C uit. Beschrijf de drie oplichtende bedieningen meteen, zodat spelers weten dat ze meer kunnen doen dan aanvallen.
+
+Begin initiatief zodra iemand handelt onder dreiging. Per beurt kiest de wachter één aanvalsactie; een omgevingsactie is optioneel. Noem vóór een gevaar waar vonken, kettingen of stoom ontstaan.
+
 ---
 
-# De drie tandwielen
+## De drie tandwielen
 
 Er staan drie controlepunten.
 
 Een speler kan een Action gebruiken om er één te bedienen.
 
-## Tandwiel A — Beweging
+**DM-afspraak — bediening:** tandwiel, controlepunt en onderhoudsrune verwijzen hier naar dezelfde drie systemen. Een succes blijft actief en stapelt niet met zichzelf. Een mislukking kost de Action; op een volgende beurt mag opnieuw geprobeerd worden. Het medaillon geeft eenmaal Advantage op een bedieningscheck naar keuze, en verlaagt daarnaast de latere Persuasion-DC zoals hieronder beschreven.
+
+### Tandwiel A — Beweging
 
 **Athletics of Thieves' Tools DC 12**
 
@@ -402,7 +458,7 @@ De Molenwachter verliest 10 ft beweging.
 
 ---
 
-## Tandwiel B — Pantser
+### Tandwiel B — Pantser
 
 **Arcana of Investigation DC 12**
 
@@ -412,9 +468,9 @@ AC van de Molenwachter daalt met 2.
 
 ---
 
-## Tandwiel C — Protocol
+### Tandwiel C — Protocol
 
-**Arcana, History of onderhoudsmedaillon DC 13**
+**Arcana of History DC 13**. Het onderhoudsmedaillon helpt zoals hierboven beschreven; het is geen aparte skill.
 
 Succes:
 
@@ -426,7 +482,7 @@ Vanaf dan kan hij overtuigd worden te stoppen.
 
 ---
 
-# Alternatieve overwinning
+## Alternatieve overwinning
 
 Als Tandwiel C actief is, kan iemand als Action proberen de bewaker te overtuigen.
 
@@ -447,7 +503,21 @@ Voorbeelden:
 
 ---
 
-# De Hartsteen vernietigen
+## De finale afronden
+
+**DM-afspraak — concrete eindprocedures:** onderstaande uitwerking verbindt de eindes uit het overzicht met de drie bedieningen.
+
+| Keuze | Wat is nodig? | Gevolg |
+|---|---|---|
+| Wachter vernietigen | Breng de Molenwachter op 0 HP. | De beveiliging schakelt de Hartsteen uit; geen instorting. Reparatie blijft mogelijk in een vervolg. |
+| Wachter herstellen | Activeer A, B en C; overtuig daarna de wachter met de check hierboven. | De onderhoudscyclus herstelt zijn opdracht. De molen stopt veilig; irrigatie wordt hersteld. |
+| Tijdelijk laten stoppen | Activeer C en slaag op de overtuigingscheck. | Hij staakt aanvallen zolang niemand aanvalt; de groep kan evacueren of A en B veilig afwerken voor volledig herstel. |
+| Opnieuw verzegelen | Activeer C; gebruik daarna een Action bij C voor Arcana of History DC 12. | De noodprocedure zet de wachter op wachtstand en sluit de kern af nadat iedereen vertrokken is. Geen medaillon vereist. |
+| Hartsteen vernietigen | Breng de Hartsteen op 0 HP. | Alle constructies stoppen; een instorting dwingt tot ontsnappen. |
+
+De noodprocedure is leesbaar bij C zodra dat systeem actief is; Tik kan erop wijzen. Bij een mislukte verzegelingscheck blijft C actief en mag opnieuw geprobeerd worden. De groep kan altijd terugtrekken: de wachter verlaat de molen niet.
+
+## De Hartsteen vernietigen
 
 AC 12  
 HP 20
@@ -464,9 +534,11 @@ Iedereen maakt één passende check met **DC 10**.
 
 Laat spectaculaire beschrijvingen toe.
 
+**DM-afspraak:** een mislukking betekent dat iemand hulp nodig heeft of een los voorwerp verliest; geen onmiddellijke dood. Vraag een andere speler hoe die helpt en laat de groep samen buitenkomen. Mira en Tik gaan met hen mee.
+
 ---
 
-# Epiloog
+## Epiloog
 
 Terug in het dorp wordt Mira herenigd met haar vader.
 

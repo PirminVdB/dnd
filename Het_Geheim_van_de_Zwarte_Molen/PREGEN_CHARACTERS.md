@@ -1,4 +1,14 @@
-# 06 — Vooraf gemaakte personages
+# Vooraf gemaakte personages
+
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
+
+## Gebruik van deze kaarten
+
+Dit zijn **vereenvoudigde huisregelpersonages**, geen volledige officiële level-2-character sheets. De aantallen spreukgebruik en sommige effecten zijn bewust vereenvoudigd. Meng deze gebruikstellers niet met spell slots van een volledig personageblad.
+
+**DM-afspraak om ontbrekende waarden op te vangen:** Speed is 30 ft tenzij vermeld; initiatief gebruikt DEX. Gebruik de vermelde ability modifier voor saves en checks; bij “Sterk in” tel je +2 op bij de passende ability. Gebruiken met “x” gelden per sessie, tenzij “per rust” vermeld is. Onbeperkte spreuken kosten een Action; Healing Word kost een Bonus Action. Beslis vóór het spel welke overige spreukdetails je uit jullie gekozen regelboek gebruikt.
+
+De wizard heet hieronder **Elias**, om verwarring met burgemeester Elian te voorkomen.
 
 Deze personages zijn bewust eenvoudig gehouden.
 
@@ -13,7 +23,7 @@ De cijfers hieronder zijn voldoende voor deze one-shot.
 
 ---
 
-# 1. Kael — Human Fighter
+## 1. Kael — Human Fighter
 
 **Rol:** sterke frontliner  
 **Goed voor spelers die:** gewoon willen beginnen zonder veel magie
@@ -29,32 +39,32 @@ De cijfers hieronder zijn voldoende voor deze one-shot.
 **WIS +1**  
 **CHA +0**
 
-### Longsword
+#### Longsword
 
 +5 om te raken  
 1d8 + 3 damage
 
-### Second Wind — 1x per rust
+#### Second Wind — 1x per rust
 
 Bonus Action:
 
 Herstel **1d10 + 2 HP**.
 
-### Action Surge — 1x per rust
+#### Action Surge — 1x per rust
 
 Je krijgt onmiddellijk één extra Action.
 
-### Sterk in
+#### Sterk in
 
 Athletics, Intimidation
 
-### Karakteridee
+#### Karakteridee
 
 Je hebt genoeg verhalen over helden gehoord en wilt eindelijk weten of jij er zelf één kunt zijn.
 
 ---
 
-# 2. Liora — Elf Ranger
+## 2. Liora — Elf Ranger
 
 **Rol:** boogschutter en spoorzoeker
 
@@ -68,17 +78,17 @@ Je hebt genoeg verhalen over helden gehoord en wilt eindelijk weten of jij er ze
 **WIS +3**  
 **CHA +1**
 
-### Longbow
+#### Longbow
 
 +5 om te raken  
 1d8 + 3 damage
 
-### Shortsword
+#### Shortsword
 
 +5 om te raken  
 1d6 + 3 damage
 
-### Hunter's Mark — 2x
+#### Hunter's Mark — 2x
 
 Kies een vijand.
 
@@ -86,17 +96,17 @@ Tot het gevecht eindigt:
 
 +1d6 damage op je eerste hit per beurt tegen dat doel.
 
-### Sterk in
+#### Sterk in
 
 Survival, Perception, Nature
 
-### Karakteridee
+#### Karakteridee
 
 Je kent het bos rond Eikenwoude beter dan de meeste inwoners.
 
 ---
 
-# 3. Borin — Dwarf Cleric
+## 3. Borin — Dwarf Cleric
 
 **Rol:** healer en stevige support
 
@@ -110,12 +120,12 @@ Je kent het bos rond Eikenwoude beter dan de meeste inwoners.
 **WIS +3**  
 **CHA +1**
 
-### Warhammer
+#### Warhammer
 
 +4 om te raken  
 1d8 + 2 damage
 
-### Sacred Flame
+#### Sacred Flame
 
 Doel maakt **Dex save DC 13**.
 
@@ -123,7 +133,7 @@ Mislukking:
 
 1d8 radiant damage.
 
-### Healing Word — 3x
+#### Healing Word — 3x
 
 Bonus Action.
 
@@ -131,7 +141,7 @@ Een bondgenoot binnen 60 ft herstelt:
 
 **1d4 + 3 HP**
 
-### Guiding Bolt — 2x
+#### Guiding Bolt — 2x
 
 +5 om te raken
 
@@ -139,17 +149,17 @@ Een bondgenoot binnen 60 ft herstelt:
 
 De volgende aanval tegen dat doel krijgt Advantage.
 
-### Sterk in
+#### Sterk in
 
 Medicine, Insight, Religion
 
-### Karakteridee
+#### Karakteridee
 
 Je gelooft dat oude plaatsen gerespecteerd moeten worden, niet gevreesd.
 
 ---
 
-# 4. Nyra — Tiefling Rogue
+## 4. Nyra — Tiefling Rogue
 
 **Rol:** sluipen, sloten, slimme aanvallen
 
@@ -163,17 +173,17 @@ Je gelooft dat oude plaatsen gerespecteerd moeten worden, niet gevreesd.
 **WIS +1**  
 **CHA +2**
 
-### Rapier
+#### Rapier
 
 +5 om te raken  
 1d8 + 3 damage
 
-### Shortbow
+#### Shortbow
 
 +5 om te raken  
 1d6 + 3 damage
 
-### Sneak Attack
+#### Sneak Attack
 
 Eén keer per beurt:
 
@@ -181,23 +191,23 @@ Eén keer per beurt:
 
 als je Advantage hebt of een bondgenoot naast je doel staat.
 
-### Cunning Action
+#### Cunning Action
 
 Bonus Action:
 
 Dash, Disengage of Hide.
 
-### Sterk in
+#### Sterk in
 
 Stealth, Investigation, Sleight of Hand
 
-### Karakteridee
+#### Karakteridee
 
 Je kwam naar het Oogstfeest omdat dorpsfeesten meestal makkelijker geld opleveren dan echte avonturen.
 
 ---
 
-# 5. Elian — Human Wizard
+## 5. Elias — Human Wizard
 
 **Rol:** magie en creatieve oplossingen
 
@@ -211,12 +221,12 @@ Je kwam naar het Oogstfeest omdat dorpsfeesten meestal makkelijker geld oplevere
 **WIS +1**  
 **CHA +0**
 
-### Fire Bolt
+#### Fire Bolt
 
 +5 om te raken  
 1d10 fire damage
 
-### Magic Missile — 3x
+#### Magic Missile — 3x
 
 Drie magische pijlen.
 
@@ -226,31 +236,31 @@ Elke pijl doet:
 
 Ze missen niet.
 
-### Sleep — 1x
+#### Sleep — 1x
 
 Rol 5d8.
 
 Vijanden met in totaal zoveel HP vallen in slaap, beginnend bij de zwakste.
 
-### Mage Hand
+#### Mage Hand
 
 Laat een magische hand kleine voorwerpen bewegen op afstand.
 
-### Detect Magic
+#### Detect Magic
 
 Je voelt actieve magie in de omgeving.
 
-### Sterk in
+#### Sterk in
 
 Arcana, History, Investigation
 
-### Karakteridee
+#### Karakteridee
 
 Je bent vooral geïnteresseerd in waarom een molen zonder wind kan draaien.
 
 ---
 
-# 6. Sera — Halfling Bard
+## 6. Sera — Halfling Bard
 
 **Rol:** sociale situaties, support en improvisatie
 
@@ -264,12 +274,12 @@ Je bent vooral geïnteresseerd in waarom een molen zonder wind kan draaien.
 **WIS +1**  
 **CHA +3**
 
-### Rapier
+#### Rapier
 
 +4 om te raken  
 1d8 + 2 damage
 
-### Vicious Mockery
+#### Vicious Mockery
 
 Doel maakt **Wis save DC 13**.
 
@@ -277,7 +287,7 @@ Mislukking:
 
 1d4 psychic damage en Disadvantage op de volgende aanval.
 
-### Bardic Inspiration — 3x
+#### Bardic Inspiration — 3x
 
 Bonus Action.
 
@@ -285,20 +295,20 @@ Geef een bondgenoot een **d6**.
 
 Die speler mag de d6 later toevoegen aan één d20-roll.
 
-### Healing Word — 2x
+#### Healing Word — 2x
 
 1d4 + 3 HP
 
-### Charm Person — 1x
+#### Charm Person — 1x
 
 Een humanoid maakt een **Wis save DC 13**.
 
 Bij mislukking beschouwt hij jou tijdelijk als vriendelijke kennis.
 
-### Sterk in
+#### Sterk in
 
 Persuasion, Performance, Deception
 
-### Karakteridee
+#### Karakteridee
 
 Je bent ervan overtuigd dat elk goed avontuur uiteindelijk een goed verhaal wordt.

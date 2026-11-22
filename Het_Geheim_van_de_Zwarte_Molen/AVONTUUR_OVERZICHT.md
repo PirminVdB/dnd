@@ -1,12 +1,14 @@
-# 01 — Avontuuroverzicht
+# Avontuuroverzicht
 
-## Titel
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
 
-# Het Geheim van de Zwarte Molen
+### Titel
+
+## Het Geheim van de Zwarte Molen
 
 ---
 
-## De pitch voor de spelers
+### De pitch voor de spelers
 
 Jullie reizen naar het rustige dorp Eikenwoude, waar vanavond het jaarlijkse Oogstfeest plaatsvindt.
 
@@ -22,7 +24,7 @@ En wanneer het licht terugkeert, is een kind verdwenen.
 
 ---
 
-# Achtergrond voor de Dungeon Master
+## Achtergrond voor de Dungeon Master
 
 Ongeveer honderdvijftig jaar geleden werd onder Eikenwoude een magische constructie gebouwd: **de Hartsteen**.
 
@@ -30,7 +32,7 @@ De Hartsteen voedde vroeger irrigatiekanalen, beschermde de velden tegen overstr
 
 De machine werd bewaakt door een kunstmatige wachter:
 
-## De Molenwachter
+### De Molenwachter
 
 De Molenwachter is geen demon en geen kwaadaardig monster.
 
@@ -44,7 +46,7 @@ Voor hem is inmiddels bijna iedereen een indringer.
 
 ---
 
-## Wat is er recent gebeurd?
+### Wat is er recent gebeurd?
 
 Een kleine groep kobolds heeft onder het bos een nieuw onderkomen gezocht.
 
@@ -68,7 +70,7 @@ Maar omdat de Molenwachter iedereen binnen beschouwt als een potentiële bedreig
 
 ---
 
-# De centrale misleiding
+## De centrale misleiding
 
 Bij aanvang denkt het dorp:
 
@@ -88,9 +90,9 @@ De echte antagonist is:
 
 ---
 
-# De structuur van het avontuur
+## De structuur van het avontuur
 
-## Acte 1 — Het Oogstfeest
+### Acte 1 — Het Oogstfeest
 
 De spelers maken kennis met Eikenwoude.
 
@@ -102,7 +104,7 @@ Mira verdwijnt.
 
 ---
 
-## Acte 2 — Onderzoek in het dorp
+### Acte 2 — Onderzoek in het dorp
 
 De spelers verzamelen aanwijzingen.
 
@@ -116,7 +118,7 @@ Ze ontdekken:
 
 ---
 
-## Acte 3 — Het bos
+### Acte 3 — Het bos
 
 De spelers treffen een geïmproviseerde barricade.
 
@@ -133,7 +135,7 @@ Snurk weet dat Mira zelf naar de molen ging.
 
 ---
 
-## Acte 4 — De molen
+### Acte 4 — De molen
 
 De groep verkent de oude molen.
 
@@ -147,7 +149,7 @@ Ze vinden:
 
 ---
 
-## Acte 5 — De Hartkamer
+### Acte 5 — De Hartkamer
 
 De Molenwachter wordt volledig actief.
 
@@ -163,9 +165,9 @@ De spelers kunnen ook:
 
 ---
 
-# De drie mogelijke eindes
+## De drie mogelijke eindes
 
-## 1. De Molenwachter wordt vernietigd
+### 1. De Molenwachter wordt vernietigd
 
 Het gevaar is voorbij.
 
@@ -177,7 +179,7 @@ Dit is het eenvoudigste einde.
 
 ---
 
-## 2. De Molenwachter wordt hersteld
+### 2. De Molenwachter wordt hersteld
 
 Door de drie onderhoudsrunen opnieuw te activeren, krijgt de constructie zijn oorspronkelijke opdrachten terug.
 
@@ -189,7 +191,7 @@ Dit is het meest hoopvolle einde.
 
 ---
 
-## 3. De Hartsteen wordt opnieuw gebonden
+### 3. De Hartsteen wordt opnieuw gebonden
 
 Een personage kan de oude noodprocedure uitvoeren.
 
@@ -203,7 +205,7 @@ Dit einde laat gemakkelijk ruimte voor een vervolgavontuur.
 
 ---
 
-# Thema's
+## Thema's
 
 - Niet elk monster is een vijand.
 - Nieuwsgierigheid heeft gevolgen.

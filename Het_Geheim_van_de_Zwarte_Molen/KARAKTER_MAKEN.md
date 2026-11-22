@@ -1,9 +1,14 @@
-# 11 — Samen een karakter maken
+# Samen een karakter maken
+
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
+
+## Eerst afspreken
+
+De d20-methode, de flexibele +2/+1 en de optionele vier vrije skills hieronder zijn **huisregels voor deze groep**. Gebruik de +2/+1 eenmaal; tel geen extra ability-bonussen uit species of achtergrond erbij op. Dit document helpt bij keuzes, maar vervangt geen volledig character sheet of regelboek voor klassevaardigheden en spreuken.
 
 Deze gids is bedoeld om vóór **Het Geheim van de Zwarte Molen** samen personages te maken.
 
 Voor nieuwe spelers is het leuker om niet te beginnen met twintig pagina's regels, maar met één eenvoudige vraag:
-[[]]
 
 > **Wie wil jij zijn in dit verhaal?**
 
@@ -15,7 +20,7 @@ Daarna vullen we stap voor stap de cijfers in.
 
 ---
 
-# Overzicht
+## Overzicht
 
 Iedere speler doorloopt deze stappen:
 
@@ -36,7 +41,7 @@ Je hoeft nog geen perfecte backstory te hebben. Een paar duidelijke keuzes zijn 
 
 ---
 
-# Stap 1 — Bedenk eerst een eenvoudig concept
+## Stap 1 — Bedenk eerst een eenvoudig concept
 
 Laat iedere speler in één zin zeggen wat hij of zij ongeveer wil spelen.
 
@@ -57,7 +62,7 @@ Zo voorkom je dat nieuwe spelers moeten kiezen uit termen die ze nog niet kennen
 
 ---
 
-# Stap 2 — Ability scores rollen met een d20
+## Stap 2 — Ability scores rollen met een d20
 
 Voor deze groep gebruiken we een eenvoudige **d20-huisregel**.
 
@@ -73,7 +78,7 @@ Je krijgt dus altijd zes scores tussen **8 en 18**.
 
 Daarna mag je de zes scores **vrij verdelen**.
 
-## Voorbeeld
+### Voorbeeld
 
 Je rolt:
 
@@ -98,7 +103,7 @@ De dobbelstenen bepalen je bouwstenen.
 
 ---
 
-# De zes abilities
+## De zes abilities
 
 | Ability | Afkorting | Waarvoor dient dit? |
 |---|---|---|
@@ -111,7 +116,7 @@ De dobbelstenen bepalen je bouwstenen.
 
 ---
 
-# Stap 3 — Verdeel je scores
+## Stap 3 — Verdeel je scores
 
 Iedere klasse heeft één of twee abilities die extra belangrijk zijn.
 
@@ -130,7 +135,7 @@ Iedere klasse heeft één of twee abilities die extra belangrijk zijn.
 | Warlock | CHA | CON, DEX |
 | Wizard | INT | CON, DEX |
 
-## Goede vuistregel
+### Goede vuistregel
 
 Zet je hoogste score in de belangrijkste ability van je klasse.
 
@@ -140,7 +145,7 @@ Je laagste score mag gerust een echte zwakte zijn. Dat maakt een personage vaak 
 
 ---
 
-# Ability modifiers
+## Ability modifiers
 
 | Score | Modifier |
 |---:|---:|
@@ -162,7 +167,7 @@ Een Dexterity-check wordt dan meestal:
 
 ---
 
-# Stap 4 — Kies een ras / species
+## Stap 4 — Kies een ras / species
 
 Voor deze eerste sessie houden we de opties herkenbaar en eenvoudig.
 
@@ -175,7 +180,7 @@ Een ability kan maximaal **20** worden.
 
 De keuze van je ras bepaalt dus vooral je fantasy-sfeer, uiterlijk en bijzondere eigenschappen.
 
-## Human
+### Human
 
 Veelzijdig en overal te vinden.
 
@@ -183,7 +188,7 @@ Veelzijdig en overal te vinden.
 
 Kies Human als je vooral je klasse en persoonlijkheid centraal wilt zetten.
 
-## Dwarf
+### Dwarf
 
 Stevig, koppig, loyaal en vaak verbonden met steen, smeden of oude tradities.
 
@@ -195,7 +200,7 @@ Typisch:
 - praktisch ingesteld;
 - gewend aan zware omstandigheden.
 
-## Elf
+### Elf
 
 Gracieus, oud, scherpzinnig en vaak verbonden met magie of natuur.
 
@@ -208,7 +213,7 @@ Typisch:
 - lange levensduur;
 - vaak affiniteit met magie.
 
-## Halfling
+### Halfling
 
 Klein, sociaal, dapper en verrassend moeilijk klein te krijgen.
 
@@ -220,7 +225,7 @@ Typisch:
 - optimistisch;
 - vaak onderschat.
 
-## Gnome
+### Gnome
 
 Nieuwsgierig, vindingrijk en soms heerlijk excentriek.
 
@@ -232,7 +237,7 @@ Typisch:
 - creatief;
 - houdt van raadsels, magie of mechanismen.
 
-## Half-Elf
+### Half-Elf
 
 Tussen twee werelden, sociaal flexibel en veelzijdig.
 
@@ -244,7 +249,7 @@ Typisch:
 - flexibel;
 - goed voor spelers die meerdere kanten op willen.
 
-## Half-Orc
+### Half-Orc
 
 Groot, sterk en intimiderend, zonder dat je personage daarom agressief of dom hoeft te zijn.
 
@@ -256,7 +261,7 @@ Typisch:
 - taai;
 - indrukwekkende aanwezigheid.
 
-## Tiefling
+### Tiefling
 
 Humanoid met een infernale erfenis, vaak herkenbaar aan hoorns, opvallende ogen en soms een staart.
 
@@ -268,7 +273,7 @@ Typisch:
 - natuurlijke affiniteit met magie;
 - leuk voor een personage dat snel verkeerd wordt beoordeeld.
 
-## Dragonborn
+### Dragonborn
 
 Draconische humanoids met schubben en een krachtige uitstraling.
 
@@ -282,13 +287,13 @@ Typisch:
 
 ---
 
-# Stap 5 — Kies een klasse
+## Stap 5 — Kies een klasse
 
 Je klasse bepaalt vooral **wat je tijdens het avontuur kunt doen**.
 
 Er is geen verkeerde keuze.
 
-## Barbarian
+### Barbarian
 
 > “Ik word gevaarlijker wanneer ik kwaad word.”
 
@@ -298,7 +303,7 @@ Sterke frontliner die enorm veel kan incasseren.
 **Moeilijkheid:** eenvoudig.  
 **Kies dit als:** je recht op het gevaar wilt aflopen.
 
-## Bard
+### Bard
 
 > “Waarom vechten als ik het ook kan oplossen met woorden, muziek of een perfecte belediging?”
 
@@ -308,7 +313,7 @@ Sociaal, flexibel en magisch.
 **Moeilijkheid:** gemiddeld.  
 **Kies dit als:** je graag creatief bent en van alles een beetje wilt kunnen.
 
-## Cleric
+### Cleric
 
 > “Iemand moet ervoor zorgen dat jullie dit avontuur overleven.”
 
@@ -318,7 +323,7 @@ Stevige magische ondersteuner met goddelijke magie.
 **Moeilijkheid:** gemiddeld.  
 **Kies dit als:** je sterk wilt zijn én de groep wilt helpen.
 
-## Druid
+### Druid
 
 > “De natuur heeft meer wapens dan een smid ooit kan maken.”
 
@@ -328,7 +333,7 @@ Gebruikt natuurmagie en kan op hogere niveaus in dieren veranderen.
 **Moeilijkheid:** gemiddeld tot iets moeilijker.  
 **Kies dit als:** je natuur, dieren en magie leuk vindt.
 
-## Fighter
+### Fighter
 
 > “Geef mij een wapen.”
 
@@ -338,7 +343,7 @@ De meest rechttoe-rechtaan krijger.
 **Moeilijkheid:** zeer eenvoudig.  
 **Kies dit als:** je zonder veel extra regels meteen wilt kunnen vechten.
 
-## Monk
+### Monk
 
 > “Een zwaard? Nee bedankt.”
 
@@ -348,7 +353,7 @@ Een snelle martial-artsvechter.
 **Moeilijkheid:** gemiddeld.  
 **Kies dit als:** je een snelle martial-artsheld wilt.
 
-## Paladin
+### Paladin
 
 > “Ik heb een eed afgelegd.”
 
@@ -358,7 +363,7 @@ Een gepantserde krijger met goddelijke kracht.
 **Moeilijkheid:** gemiddeld.  
 **Kies dit als:** je een ridderachtige held wilt spelen.
 
-## Ranger
+### Ranger
 
 > “Ik zag hun sporen een kilometer geleden al.”
 
@@ -368,7 +373,7 @@ Jager, verkenner en boogschutter.
 **Moeilijkheid:** eenvoudig tot gemiddeld.  
 **Kies dit als:** je een jager, scout of boogschutter wilt.
 
-## Rogue
+### Rogue
 
 > “Waarom de voordeur gebruiken?”
 
@@ -378,7 +383,7 @@ Snel, slim en geweldig in skills.
 **Moeilijkheid:** eenvoudig.  
 **Kies dit als:** je slimme trucs en stealth leuk vindt.
 
-## Sorcerer
+### Sorcerer
 
 > “Ik heb magie nooit geleerd. Ze was er gewoon.”
 
@@ -388,7 +393,7 @@ Een magiër met aangeboren kracht.
 **Moeilijkheid:** gemiddeld.  
 **Kies dit als:** je een pure magiër wilt zonder boekenstudie.
 
-## Warlock
+### Warlock
 
 > “Mijn magie heeft een prijs. Waarschijnlijk.”
 
@@ -398,7 +403,7 @@ Een magiër die kracht kreeg via een pact met een machtig wezen.
 **Moeilijkheid:** gemiddeld.  
 **Kies dit als:** je een donkerder of mysterieuzer magisch personage leuk vindt.
 
-## Wizard
+### Wizard
 
 > “Geef me vijf minuten. Ik heb hier waarschijnlijk een spreuk voor.”
 
@@ -410,7 +415,7 @@ Een magiër die zijn krachten leert door studie.
 
 ---
 
-# Stap 6 — Pas je +2 en +1 toe
+## Stap 6 — Pas je +2 en +1 toe
 
 Na het verdelen van je gerolde stats:
 
@@ -418,7 +423,7 @@ Na het verdelen van je gerolde stats:
 - geef **+1** aan een andere;
 - geen enkele score mag boven **20** komen.
 
-## Voorbeeld
+### Voorbeeld
 
 Een Fighter rolt:
 
@@ -449,7 +454,7 @@ Resultaat:
 
 ---
 
-# Stap 7 — Kies een achtergrond
+## Stap 7 — Kies een achtergrond
 
 De achtergrond vertelt wat je deed vóór je avonturier werd.
 
@@ -466,7 +471,7 @@ Voor deze sessie volstaat één eenvoudige keuze.
 
 ---
 
-# Stap 8 — Kies skills
+## Stap 8 — Kies skills
 
 Skills zijn dingen waarin je personage extra goed is.
 
@@ -493,7 +498,7 @@ Skills zijn dingen waarin je personage extra goed is.
 
 Je kunt de normale skill-keuzes van de klasse en achtergrond gebruiken.
 
-## Extra eenvoudige versie
+### Extra eenvoudige versie
 
 Voor deze one-shot kun je ook gewoon zeggen:
 
@@ -501,7 +506,7 @@ Voor deze one-shot kun je ook gewoon zeggen:
 
 ---
 
-# Stap 9 — HP, AC en snelheid
+## Stap 9 — HP, AC en snelheid
 
 Omdat jullie op **level 2** starten, raad ik aan om vaste HP te gebruiken in plaats van hiervoor nog extra te rollen.
 
@@ -516,7 +521,7 @@ Als snelle indicatie:
 | Cleric / Druid / Monk / Rogue / Bard / Warlock | 15–20 |
 | Sorcerer / Wizard | 12–17 |
 
-## Armor Class
+### Armor Class
 
 Je uitrusting bepaalt je AC.
 
@@ -526,39 +531,39 @@ Richtwaarden:
 - lichte vechter: **14–16**
 - zwaar bepantserde held: **16–18**
 
-## Speed
+### Speed
 
 Voor de meeste personages is dit ongeveer **30 ft**.
 
 ---
 
-# Stap 10 — Kies uitrusting
+## Stap 10 — Kies uitrusting
 
 Maak hier geen winkelsimulatie van.
 
 Kies gewoon de standaarduitrusting van de klasse of iets dat daar sterk op lijkt.
 
-## Fighter
+### Fighter
 
 - longsword of battleaxe;
 - shield of tweede wapen;
 - armor;
 - adventurer's pack.
 
-## Rogue
+### Rogue
 
 - rapier;
 - shortbow;
 - daggers;
 - thieves' tools.
 
-## Ranger
+### Ranger
 
 - longbow;
 - twee lichte melee-wapens;
 - lichte armor.
 
-## Wizard
+### Wizard
 
 - spellbook;
 - arcane focus;
@@ -573,44 +578,44 @@ Het belangrijkste is dat iedere speler weet:
 
 ---
 
-# Stap 11 — Spreuken
+## Stap 11 — Spreuken
 
 Dit is meestal het ingewikkeldste onderdeel voor beginners.
 
 Kies daarom samen een **kleine selectie** in plaats van onmiddellijk de hele spreukenlijst te bekijken.
 
-## Goede eenvoudige keuzes
+### Goede eenvoudige keuzes
 
-### Bard
+#### Bard
 
 - Healing Word
 - Vicious Mockery
 - Charm Person
 
-### Cleric
+#### Cleric
 
 - Healing Word
 - Sacred Flame
 - Guiding Bolt
 
-### Druid
+#### Druid
 
 - Produce Flame
 - Entangle
 - Healing Word
 
-### Sorcerer
+#### Sorcerer
 
 - Fire Bolt
 - Magic Missile
 - Shield
 
-### Warlock
+#### Warlock
 
 - Eldritch Blast
 - Hex
 
-### Wizard
+#### Wizard
 
 - Fire Bolt
 - Magic Missile
@@ -622,15 +627,15 @@ Drie tot vijf duidelijke opties zijn voor een eerste sessie meer dan genoeg.
 
 ---
 
-# Stap 12 — Geef je personage persoonlijkheid
+## Stap 12 — Geef je personage persoonlijkheid
 
 Beantwoord drie korte vragen.
 
-## Waar is je personage trots op?
+### Waar is je personage trots op?
 
 Bijvoorbeeld: kracht, intelligentie, moed, eerlijkheid, charme of kennis.
 
-## Wat is een zwakte?
+### Wat is een zwakte?
 
 Bijvoorbeeld:
 
@@ -642,7 +647,7 @@ Bijvoorbeeld:
 - vertrouwt niemand;
 - kan geen uitdaging weigeren.
 
-## Waar geeft je personage echt om?
+### Waar geeft je personage echt om?
 
 Bijvoorbeeld:
 
@@ -657,15 +662,15 @@ Bijvoorbeeld:
 
 ---
 
-# Stap 13 — Maak een kleine backstory
+## Stap 13 — Maak een kleine backstory
 
 Meer dan drie antwoorden heb je niet nodig.
 
-## 1. Waar kom je vandaan?
+### 1. Waar kom je vandaan?
 
 Een stad, dorp, bos, klooster, legerkamp, adellijk huis…
 
-## 2. Waarom ben je avonturier geworden?
+### 2. Waarom ben je avonturier geworden?
 
 Bijvoorbeeld:
 
@@ -677,7 +682,7 @@ Bijvoorbeeld:
 - mensen helpen;
 - oude geheimen ontdekken.
 
-## 3. Waarom ben je nu in Eikenwoude?
+### 3. Waarom ben je nu in Eikenwoude?
 
 Bijvoorbeeld:
 
@@ -690,7 +695,7 @@ Bijvoorbeeld:
 
 ---
 
-# Stap 14 — Maak een verbinding met een andere speler
+## Stap 14 — Maak een verbinding met een andere speler
 
 Iedere speler kiest minimaal één ander personage.
 
@@ -711,7 +716,7 @@ Dit voorkomt dat de eerste sessie begint met vijf vreemdelingen die geen reden h
 
 ---
 
-# Stap 15 — Naam en uiterlijk
+## Stap 15 — Naam en uiterlijk
 
 Kies:
 
@@ -733,7 +738,7 @@ Voorbeelden:
 
 ---
 
-# Snelle checklist
+## Snelle checklist
 
 - [ ] Naam
 - [ ] Ras / species
@@ -762,7 +767,7 @@ Voorbeelden:
 
 ---
 
-# Als iemand niet weet welke klasse hij moet nemen
+## Als iemand niet weet welke klasse hij moet nemen
 
 | Ik wil… | Kies |
 |---|---|
@@ -781,7 +786,7 @@ Voorbeelden:
 
 ---
 
-# Optionele regel — één volledige herkansing
+## Optionele regel — één volledige herkansing
 
 Als iemand na de zes worpen echt teleurgesteld is:
 
@@ -793,7 +798,7 @@ Zo blijven de worpen spannend zonder dat iemand de hele avond vastzit aan een pe
 
 ---
 
-# Advies voor de DM
+## Advies voor de DM
 
 Vraag niet eerst:
 
@@ -817,7 +822,7 @@ De regels vertalen dat idee daarna naar een personage.
 
 ---
 
-# Klaar om te beginnen?
+## Klaar om te beginnen?
 
 Laat iedere speler zijn personage in maximaal 30 seconden voorstellen:
 

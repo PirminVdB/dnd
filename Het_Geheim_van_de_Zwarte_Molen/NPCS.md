@@ -1,6 +1,24 @@
-# 04 — NPC's
+# NPC's
 
-# Mira Koster
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
+
+## Wie is wie?
+
+| Naam | Rol en wens | Speelhint |
+|---|---|---|
+| [Mira Koster](#mira-koster) | Wil Tik veilig krijgen. | Moedig en direct; ging vrijwillig. |
+| [Tik](#tik) | Gewonde kobold; wil veiligheid. | Nerveus, beleefd, technisch slim. |
+| [Snurk](#snurk) | Goblin; houdt anderen bij de molen weg. | Luid en komisch: “Professionals!” |
+| [Hendrik Vale](#hendrik-vale) | Herbergier en Mira's vader. | Paniek zodra zij ontbreekt. |
+| [Elian Vermeer](#burgemeester-elian-vermeer) | Burgemeester; wil antwoorden. | Redelijk, voorzichtig. |
+| [Bram Koster](#bram-koster) | Smid en Mira's oom; wil ingrijpen. | Fakkels en ongeduld. |
+| [Martha](#oude-martha) | Kent de geschiedenis; bezit de sleutel. | Droge opmerkingen. |
+| Pim | Negenjarige getuige; wil geen schuld krijgen. | Vertelt na geruststelling dat Mira volgde. |
+| [Molenwachter](#de-molenwachter) | Beschermt de Hartsteen. | Mechanisch, letterlijk, beschadigd. |
+
+**DM-afspraak voor de familie:** Mira draagt de familienaam van haar moeder; Bram is haar oom langs moederskant. Hendrik Vale blijft haar vader.
+
+## Mira Koster
 
 **Rol:** verdwenen meisje  
 **Leeftijd:** 12  
@@ -13,11 +31,11 @@ Ze is gewoon het soort kind dat denkt:
 
 > “Als niemand gaat kijken, dan doe ik het wel.”
 
-### Wat zij wil
+#### Wat zij wil
 
 Tik veilig krijgen.
 
-### Typische uitspraken
+#### Typische uitspraken
 
 > “Ik ben niet ontvoerd.”
 
@@ -27,7 +45,7 @@ Tik veilig krijgen.
 
 ---
 
-# Tik
+## Tik
 
 **Rol:** jonge kobold  
 **Persoonlijkheid:** nerveus, technisch slim, beleefd  
@@ -35,7 +53,7 @@ Tik veilig krijgen.
 
 Tik spreekt gebroken Common.
 
-### Typische uitspraken
+#### Typische uitspraken
 
 > “Tik niet stelen. Tik repareren. Misschien beetje kapotmaken eerst.”
 
@@ -45,7 +63,7 @@ Tik spreekt gebroken Common.
 
 ---
 
-# Snurk
+## Snurk
 
 **Rol:** goblinverkenner  
 **Persoonlijkheid:** luid, laf, verrassend verantwoordelijk  
@@ -55,7 +73,7 @@ Snurk doet alsof hij alles onder controle heeft.
 
 Dat heeft hij niet.
 
-### Typische uitspraken
+#### Typische uitspraken
 
 > “Wij zijn professionals.”
 
@@ -63,20 +81,20 @@ Dat heeft hij niet.
 
 > “Molen eet helden. Waarschijnlijk. Nog niet getest.”
 
-### Geheime wens
+#### Geheime wens
 
 Snurk wil eigenlijk een officiële baan.
 
 ---
 
-# Hendrik Vale
+## Hendrik Vale
 
 **Rol:** herbergier en vader van Mira  
 **Persoonlijkheid:** vriendelijk, paniekerig wanneer Mira verdwijnt
 
 Hendrik voelt zich schuldig omdat hij haar nieuwsgierigheid altijd heeft aangemoedigd.
 
-### Typische uitspraken
+#### Typische uitspraken
 
 > “Breng haar terug. De rest kan me niets schelen.”
 
@@ -84,7 +102,7 @@ Hendrik voelt zich schuldig omdat hij haar nieuwsgierigheid altijd heeft aangemo
 
 ---
 
-# Burgemeester Elian Vermeer
+## Burgemeester Elian Vermeer
 
 **Rol:** bestuurder van Eikenwoude  
 **Persoonlijkheid:** redelijk, voorzichtig, conflictvermijdend
@@ -93,7 +111,7 @@ Elian wil geen paniek.
 
 Daarom onderschat hij aanvankelijk het probleem.
 
-### Typische uitspraken
+#### Typische uitspraken
 
 > “We hoeven geen leger. We hebben antwoorden nodig.”
 
@@ -101,7 +119,7 @@ Daarom onderschat hij aanvankelijk het probleem.
 
 ---
 
-# Bram Koster
+## Bram Koster
 
 **Rol:** smid  
 **Persoonlijkheid:** beschermend, impulsief  
@@ -109,7 +127,7 @@ Daarom onderschat hij aanvankelijk het probleem.
 
 Bram gelooft dat de molen vernietigd moet worden.
 
-### Typische uitspraken
+#### Typische uitspraken
 
 > “Dat ding heeft twintig jaar stilgestaan. Dat had zo moeten blijven.”
 
@@ -119,14 +137,14 @@ Hij kan later met een groep dorpelingen verschijnen.
 
 ---
 
-# Oude Martha
+## Oude Martha
 
 **Rol:** kruidenvrouw, lokale geschiedkundige  
 **Persoonlijkheid:** droog, scherp, nauwelijks onder de indruk
 
 Niemand weet precies hoe oud Martha is.
 
-### Typische uitspraken
+#### Typische uitspraken
 
 > “Vervloekt? Nee. Dat zou eenvoudiger zijn.”
 
@@ -136,7 +154,7 @@ Niemand weet precies hoe oud Martha is.
 
 ---
 
-# De Molenwachter
+## De Molenwachter
 
 **Rol:** finale antagonist  
 **Persoonlijkheid:** letterlijk, beschadigd, doelgericht
@@ -145,7 +163,7 @@ Geen menselijke emoties.
 
 Geen kwaadaardigheid.
 
-### Stem
+#### Stem
 
 Kort, mechanisch.
 

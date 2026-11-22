@@ -1,5 +1,7 @@
 # Het Geheim van de Zwarte Molen
-### Beginner-one-shot voor Dungeons & Dragons-achtige 5e-regels
+
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
+#### Beginner-one-shot voor Dungeons & Dragons-achtige 5e-regels
 
 Dit pakket is bedoeld voor een groep waarvan de meeste spelers nog nooit een tabletop-RPG hebben gespeeld.
 
@@ -12,18 +14,13 @@ Dit pakket is bedoeld voor een groep waarvan de meeste spelers nog nooit een tab
 
 ---
 
-## Bestanden
+### Leeswijzer
 
-- `01_AVONTUUR_OVERZICHT.md` — samenvatting, achtergrond, structuur en geheimen
-- `02_DM_HANDLEIDING.md` — praktische tips voor het leiden van beginners
-- `03_SCENES_EN_LOCATIES.md` — het volledige avontuur scène voor scène
-- `04_NPCS.md` — alle belangrijke NPC's met karaktertrekken en dialogen
-- `05_ENCOUNTERS_EN_STATBLOCKS.md` — gevechten, vijanden en boss mechanics
-- `06_PREGEN_CHARACTERS.md` — zes eenvoudige vooraf gemaakte personages
-- `07_HANDOUTS.md` — teksten en aanwijzingen die je aan spelers kunt geven
-- `08_SNELREFERENTIE_REGELS.md` — compacte regelsamenvatting voor beginners
-- `09_ALTERNATIEVE_PADDEN.md` — wat te doen als spelers onverwachte keuzes maken
-- `10_DM_CHEATSHEET.md` — compacte sessiesamenvatting voor naast je scherm
+Begin bij het [DM-startscherm](README.md). Daar staan alle documenten en directe links naar de scènes.
+
+Vooraf: [achtergrond](AVONTUUR_OVERZICHT.md) → [DM-handleiding](DM_HANDLEIDING.md) → [personages maken](KARAKTER_MAKEN.md) of [pregens](PREGEN_CHARACTERS.md).
+
+Tijdens het spelen: [scènes](SCENES_EN_LOCATIES.md), [statblocks](ENCOUNTERS_EN_STATBLOCKS.md) en [spiekbrief](DM_CHEATSHEET.md).
 
 ---
 
@@ -45,7 +42,7 @@ De helden moeten ontdekken wat er werkelijk gebeurt, verschillende groepen tegen
 
 ---
 
-## Belangrijk voor de DM
+### Belangrijk voor de DM
 
 Je hoeft dit avontuur **niet woord voor woord te volgen**.
 

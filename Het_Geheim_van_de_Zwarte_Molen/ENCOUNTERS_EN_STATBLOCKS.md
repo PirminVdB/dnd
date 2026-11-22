@@ -1,4 +1,16 @@
-# 05 — Encounters en statblocks
+# Encounters en statblocks
+
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
+
+## Gevechten leiden
+
+[Barricade](#encounter-1--de-barricade) · [Meelwachters](#encounter-2--meelwachters) · [Molenwachter](#finale--de-molenwachter) · [Finalebediening en eindes](SCENES_EN_LOCATIES.md#de-drie-tandwielen)
+
+**DM-afspraak voor deze verkorte statblocks:** rol initiatief met een ongewijzigde d20 voor monsters. Gebruik +0 voor niet vermelde monsterchecks en saves. Elke vijand heeft één Action: kies een aanval óf de speciale gebiedsactie. Dubbele slag vervangt vanaf ronde 3 eventueel de gewone Slam. Snurks terugtocht is eenmaal vrij te gebruiken op zijn beurt.
+
+**Recharge 5–6:** de vaardigheid begint beschikbaar. Na gebruik rol je aan het begin van elke eigen beurt een d6; bij 5 of 6 is ze opnieuw beschikbaar.
+
+Noteer per vijand HP en of Recharge beschikbaar is. De opgegeven aantallen zijn uitgangspunten voor dit huisregelavontuur, geen geteste balansgarantie.
 
 Deze statblocks zijn bewust eenvoudiger dan volledige 5e-statblocks.
 
@@ -6,7 +18,7 @@ Ze zijn bedoeld voor een beginner-one-shot.
 
 ---
 
-# Encounter 1 — De barricade
+## Encounter 1 — De barricade
 
 Voor 4 spelers:
 
@@ -20,48 +32,48 @@ Voor 5–6 spelers:
 
 De goblins vechten niet tot de dood.
 
-Wanneer de helft gewond raakt, wil Snurk onderhandelen.
+Zodra één goblin uitgeschakeld is, de helft van de groep gewond is of Snurk 6 HP of minder heeft, probeert Snurk zich over te geven.
 
 ---
 
-## Goblinverkenner
+### Goblinverkenner
 
 **AC:** 13  
 **HP:** 8  
 **Speed:** 30 ft
 
-### Aanval — Kortzwaard
+#### Aanval — Kortzwaard
 
 +4 om te raken  
 1d6 + 2 schade
 
-### Aanval — Korte boog
+#### Aanval — Korte boog
 
 +4 om te raken  
 1d6 + 2 schade
 
-### Sluw wegduiken
+#### Sluw wegduiken
 
 Eén keer per beurt mag de goblin na zijn aanval 10 ft bewegen zonder opportunity attack.
 
 ---
 
-## Snurk
+### Snurk
 
 **AC:** 14  
 **HP:** 16  
 **Speed:** 30 ft
 
-### Sabel
+#### Sabel
 
 +4 om te raken  
 1d6 + 2 schade
 
-### “Professionele terugtocht!”
+#### “Professionele terugtocht!”
 
 Eenmaal per gevecht kan Snurk alle goblins 15 ft laten bewegen zonder opportunity attacks.
 
-### Overgave
+#### Overgave
 
 Wanneer Snurk 6 HP of minder heeft, roept hij:
 
@@ -69,7 +81,7 @@ Wanneer Snurk 6 HP of minder heeft, roept hij:
 
 ---
 
-# Encounter 2 — Meelwachters
+## Encounter 2 — Meelwachters
 
 Voor 4 spelers:
 
@@ -81,7 +93,7 @@ Voor 5–6 spelers:
 
 ---
 
-## Meelwachter
+### Meelwachter
 
 Kleine constructie van hout, metaal en draaiende borstels.
 
@@ -89,12 +101,12 @@ Kleine constructie van hout, metaal en draaiende borstels.
 **HP:** 14  
 **Speed:** 25 ft
 
-### Borstelslag
+#### Borstelslag
 
 +4 om te raken  
 1d6 + 2 bludgeoning damage
 
-### Meelwolk — Recharge 5–6
+#### Meelwolk — Recharge 5–6
 
 Iedereen binnen 10 ft maakt een **Constitution save DC 11**.
 
@@ -103,13 +115,13 @@ Mislukking:
 - de speler hoest;
 - heeft Disadvantage op de eerstvolgende aanval.
 
-### Zwakte
+#### Zwakte
 
 Een speler die water gebruikt op een Meelwachter geeft de volgende aanval tegen dat doel Advantage.
 
 ---
 
-# Finale — De Molenwachter
+## Finale — De Molenwachter
 
 Ontworpen voor 4–6 level 2-personages.
 
@@ -124,14 +136,14 @@ Voor 6 spelers: 80 HP
 
 ---
 
-## Slam
+### Slam
 
 +5 om te raken  
 1d8 + 3 bludgeoning damage
 
 ---
 
-## Dubbele slag
+### Dubbele slag
 
 Vanaf ronde 3 kan de Molenwachter twee Slam-aanvallen doen.
 
@@ -139,7 +151,7 @@ Gebruik dit alleen als de spelers het gevecht gemakkelijk aankunnen.
 
 ---
 
-## Tandwielstoot — Recharge 5–6
+### Tandwielstoot — Recharge 5–6
 
 Iedereen binnen 10 ft:
 
@@ -155,7 +167,7 @@ halve schade.
 
 ---
 
-## Reactie — Beschermingsprotocol
+### Reactie — Beschermingsprotocol
 
 Eén keer per ronde, wanneer iemand de Hartsteen aanvalt, mag de Molenwachter 10 ft naar die speler bewegen.
 
@@ -163,7 +175,7 @@ Geen opportunity attacks.
 
 ---
 
-# Omgevingsacties
+## Omgevingsacties
 
 Aan het einde van elke ronde mag de DM één effect gebruiken.
 
@@ -171,7 +183,7 @@ Gebruik nooit hetzelfde effect twee rondes na elkaar.
 
 ---
 
-## Vonkenregen
+### Vonkenregen
 
 Een willekeurig gebied van 10 ft vonkt.
 
@@ -183,7 +195,7 @@ Iedereen daar:
 
 ---
 
-## Draaiende ketting
+### Draaiende ketting
 
 Een ketting zwiept door de kamer.
 
@@ -195,7 +207,7 @@ prone.
 
 ---
 
-## Stoomstoot
+### Stoomstoot
 
 Een leiding barst.
 
@@ -209,7 +221,7 @@ kan geen Reaction gebruiken tot volgende beurt.
 
 ---
 
-# Niet-dodelijke finale
+## Niet-dodelijke finale
 
 Wanneer de Molenwachter 15 HP of minder heeft:
 
@@ -225,7 +237,7 @@ Dit is een hint dat praten nog steeds mogelijk is.
 
 ---
 
-# Snelle moeilijkheidsaanpassingen
+## Snelle moeilijkheidsaanpassingen
 
 Als het te moeilijk gaat:
 

@@ -1,6 +1,8 @@
-# 08 — Snelreferentie voor beginners
+# Snelreferentie voor beginners
 
-# De basis
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
+
+## De basis
 
 Bijna alles gebruikt:
 
@@ -12,7 +14,7 @@ Hoger is beter.
 
 ---
 
-# Op je beurt
+## Op je beurt
 
 Meestal heb je:
 
@@ -23,9 +25,9 @@ Meestal heb je:
 
 ---
 
-# Veelgebruikte Actions
+## Veelgebruikte Actions
 
-## Attack
+### Attack
 
 Rol:
 
@@ -37,31 +39,31 @@ rol damage.
 
 ---
 
-## Dash
+### Dash
 
 Je mag extra bewegen.
 
 ---
 
-## Disengage
+### Disengage
 
 Je beweging veroorzaakt geen opportunity attacks.
 
 ---
 
-## Dodge
+### Dodge
 
 Aanvallen tegen jou krijgen Disadvantage tot je volgende beurt.
 
 ---
 
-## Help
+### Help
 
 Geef een bondgenoot Advantage op een passende actie.
 
 ---
 
-## Iets creatiefs doen
+### Iets creatiefs doen
 
 Je mag altijd iets proberen dat niet op je blad staat.
 
@@ -71,7 +73,7 @@ De DM bepaalt of een worp nodig is.
 
 ---
 
-# Advantage
+## Advantage
 
 Rol twee d20's.
 
@@ -79,7 +81,7 @@ Neem de hoogste.
 
 ---
 
-# Disadvantage
+## Disadvantage
 
 Rol twee d20's.
 
@@ -87,7 +89,7 @@ Neem de laagste.
 
 ---
 
-# Saving throws
+## Saving throws
 
 Wanneer iets jou overkomt:
 
@@ -101,7 +103,7 @@ Voorbeelden:
 
 ---
 
-# 0 HP
+## 0 HP
 
 Je valt bewusteloos.
 
@@ -115,7 +117,7 @@ Voor deze eerste sessie hoeft niemand door één slechte worp permanent te sterv
 
 ---
 
-# Belangrijkste regel
+## Belangrijkste regel
 
 Je hoeft geen knop op je character sheet te vinden.
 

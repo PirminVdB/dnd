@@ -1,6 +1,16 @@
-# 02 — Handleiding voor de Dungeon Master
+# Handleiding voor de Dungeon Master
 
-# Doel van deze sessie
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
+
+## Kies vooraf je tafelafspraken
+
+Leg uit: “Beschrijf wat je probeert. Ik vertel wanneer je rolt.” Vraag kort welke onderwerpen de groep liever vermijdt, zeker rond een kind in gevaar.
+
+**Voorgestelde huisregel voor deze introductie:** op 0 HP ben je bewusteloos maar stabiel; je neemt geen beurten tot je genezen wordt. Een bondgenoot kan je veilig wegdragen. Spreek vooraf af dat jullie voor deze sessie geen death saves of permanente personagedood gebruiken. Gebruik je liever de volledige regels, spreek dat dan expliciet af en volg jullie regelboek.
+
+Deze afspraak vervangt voor deze sessie de vrijblijvende opties bij “Doodgaan vermijden” verderop. Leg ook vooraf vast of je volledige personagebladen of de vereenvoudigde pregens gebruikt.
+
+## Doel van deze sessie
 
 Voor nieuwe spelers is **tempo** belangrijker dan volledigheid.
 
@@ -12,7 +22,7 @@ Probeer hen in de eerste 20–30 minuten al drie dingen te laten doen:
 
 ---
 
-# Leg regels pas uit wanneer ze nodig zijn
+## Leg regels pas uit wanneer ze nodig zijn
 
 Vermijd een lange introductie over:
 
@@ -31,7 +41,7 @@ Voor beginners werkt dat bijna altijd beter.
 
 ---
 
-# Fail forward
+## Fail forward
 
 Een mislukte worp mag het verhaal niet stilleggen.
 
@@ -51,7 +61,7 @@ De spelers krijgen de informatie, maar tegen een prijs.
 
 ---
 
-# Gebruik lage DC's
+## Gebruik lage DC's
 
 Voor deze one-shot:
 
@@ -66,7 +76,7 @@ Nieuwe spelers moeten het gevoel krijgen dat hun ideeën kans maken.
 
 ---
 
-# Beloon creativiteit
+## Beloon creativiteit
 
 Als iemand zegt:
 
@@ -82,7 +92,7 @@ Niet:
 
 ---
 
-# Wanneer je Advantage geeft
+## Wanneer je Advantage geeft
 
 Geef Advantage wanneer:
 
@@ -93,7 +103,7 @@ Geef Advantage wanneer:
 
 ---
 
-# Wanneer je een worp helemaal overslaat
+## Wanneer je een worp helemaal overslaat
 
 Als mislukken niet interessant is, laat ze gewoon slagen.
 
@@ -107,9 +117,9 @@ Dobbelstenen zijn voor onzekerheid, niet voor alles.
 
 ---
 
-# Tempo bewaken
+## Tempo bewaken
 
-Als je 4 uur hebt, mik dan ongeveer op:
+Voor een ruime sessie van 4–6 uur kun je deze tijden gebruiken. Voor een planning van precies vier uur, inclusief pauze, zie het [scèneoverzicht](SCENES_EN_LOCATIES.md#gebruik-aan-tafel):
 
 - Oogstfeest: 30 min
 - Onderzoek: 30–45 min
@@ -122,7 +132,7 @@ Als je achterloopt, sla dan één molenkamer over.
 
 ---
 
-# Beginners en combat
+## Beginners en combat
 
 Herinner spelers op hun beurt aan hun opties:
 
@@ -138,7 +148,7 @@ Vertaal hun idee daarna naar de regels.
 
 ---
 
-# Doodgaan vermijden
+## Doodgaan vermijden
 
 Dit avontuur is bewust vergevingsgezind.
 
@@ -153,7 +163,7 @@ Een NPC kan eventueel een genezende tinctuur hebben.
 
 ---
 
-# Spelers die stil zijn
+## Spelers die stil zijn
 
 Vraag hen geen open vraag als:
 
@@ -167,7 +177,7 @@ Dat maakt deelname gemakkelijker.
 
 ---
 
-# Spelers die alles willen aanvallen
+## Spelers die alles willen aanvallen
 
 Laat dat toe.
 
@@ -181,7 +191,7 @@ Zo leert de groep dat praten ook een optie is zonder hen te straffen.
 
 ---
 
-# De gouden regel
+## De gouden regel
 
 Als de spelers plezier hebben, zit je goed.
 

@@ -1,4 +1,6 @@
-# 09 — Alternatieve paden
+# Alternatieve paden
+
+[DM-start](README.md) · [Scènes](SCENES_EN_LOCATIES.md) · [Gevechten](ENCOUNTERS_EN_STATBLOCKS.md) · [Spiekbrief](DM_CHEATSHEET.md)
 
 Spelers doen nooit precies wat je verwacht.
 
@@ -8,7 +10,7 @@ Hier zijn oplossingen voor veel voorkomende verrassingen.
 
 ---
 
-# Ze gaan meteen naar de molen
+## Ze gaan meteen naar de molen
 
 Prima.
 
@@ -24,7 +26,7 @@ Het verhaal werkt nog steeds.
 
 ---
 
-# Ze arresteren of vermoorden Snurk
+## Ze arresteren of vermoorden Snurk
 
 Laat één goblin roepen:
 
@@ -36,7 +38,7 @@ Later kan Tik bevestigen wat er gebeurde.
 
 ---
 
-# Ze willen de molen in brand steken
+## Ze willen de molen in brand steken
 
 Dat kan.
 
@@ -52,7 +54,7 @@ Bram beseft dan dat zijn plan slecht was.
 
 ---
 
-# Ze weigeren Mira te zoeken
+## Ze weigeren Mira te zoeken
 
 De burgemeester biedt een beloning.
 
@@ -64,7 +66,7 @@ Nu is duidelijk dat het gevaar groter is dan één vermist kind.
 
 ---
 
-# Ze willen alle kobolds doden
+## Ze willen alle kobolds doden
 
 Maak duidelijk dat Tik gewond, jong en ongewapend is.
 
@@ -76,7 +78,7 @@ Maar blokkeer hun keuze niet.
 
 ---
 
-# Ze willen met de Molenwachter praten vóór Tandwiel C
+## Ze willen met de Molenwachter praten vóór Tandwiel C
 
 De wachter begrijpt losse woorden.
 
@@ -92,7 +94,7 @@ Zo voelen slimme spelers dat praten zin heeft.
 
 ---
 
-# Ze breken de Hartsteen meteen
+## Ze breken de Hartsteen meteen
 
 Laat dat werken.
 
@@ -104,7 +106,7 @@ Vraag één relevante check per speler.
 
 ---
 
-# Ze lopen weg uit de Hartkamer
+## Ze lopen weg uit de Hartkamer
 
 De Molenwachter volgt niet voorbij de molen.
 
@@ -119,7 +121,7 @@ Nu moeten de spelers beslissen:
 
 ---
 
-# Ze bedenken een briljante oplossing
+## Ze bedenken een briljante oplossing
 
 Laat die waarschijnlijk werken.
 
@@ -131,7 +133,7 @@ Dat is precies het soort moment dat nieuwe spelers onthouden.
 
 ---
 
-# Als je vastloopt
+## Als je vastloopt
 
 Gebruik één van deze drie vragen:
 
