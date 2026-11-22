@@ -108,7 +108,25 @@ Als ze meegaan:
 >
 **Speelmoment:** laat iedere speler kort naam, uiterlijk en reden van komst vertellen. Vraag bij een bestaande groep hoe ze elkaar kennen. Alleen als de personages vreemden zijn, kan Krusk toevoegen: “Jullie zien er niet uit alsof jullie samen gereisd hebben.”
 
-**Hendrik introduceren:** een vriendelijke man komt lege bekers ophalen. Krusk stelt hem voor: “Hendrik houdt hier de bar draaiende.” Hendrik noemt terloops zijn dochter Mira, die ergens op het feest rondloopt. Zo kennen de spelers de vader voordat hij alarm slaat.
+Lees na de kennismaking verder:
+
+> Terwijl jullie praten, komt een vriendelijke man met opgestroopte mouwen langs de tafel. Hij verzamelt enkele lege bekers en knikt jullie toe.
+>
+> Krusk tikt hem op de schouder.
+>
+> “Dit is Hendrik. Hij houdt hier de bar draaiende terwijl ik iedereen van eten en goede raad voorzie.”
+>
+> “Vooral raad waar niemand om gevraagd heeft,” zegt Hendrik met een glimlach.
+>
+> Hij kijkt even over het plein.
+>
+> “Mijn dochter Mira geniet ook van het feest. Twaalf jaar en nieuwsgierig genoeg voor drie. Als ze jullie naar avonturen vraagt, zijn jullie voorlopig nog niet van haar af.”
+>
+> “Dat heeft ze van haar vader,” bromt Krusk.
+>
+> Hendrik lacht, tilt de bekers op en loopt terug naar de herberg.
+
+**Voor de DM:** laat ruimte voor een reactie of een kort gesprek met Hendrik. Hij denkt op dit moment dat Mira nog op het plein is; dit bevestigt niet waar ze werkelijk is. Als de groep de tafel overslaat, laat Hendrik hen tijdens het rondlopen begroeten en gebruik dezelfde kennismaking.
 
 #### 3. Het plein verkennen
 
